@@ -1,0 +1,129 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2022-09,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of positioning discrepancy
+2022-09,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-09,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-09,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-09,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of positioning discrepancy
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to conditions exceeding ODD
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of positioning error
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-10,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of positioning error
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-11,3LN6L5LU9HR650658,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-01,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-01,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to yield to merging vehicle
+2022-01,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-01,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to execute lane change
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to execute lane change
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of route planner discrepancy
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to conditions exceeding ODD
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to execute lane change due to contention
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to execute lane change due to other vehicle blocking 
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to vehicle cut-in
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to execute lane change
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy causing undesired braking
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver precautionary disengagement due to aggressive cut-in by other vehicle
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy causing undesired braking
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to execute lane change
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-03,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to truck cut-in
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-04,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-05,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-05,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to vehicle cut-in
+2022-05,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-10,3LN6L5LU0HR663007,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-02,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy: failure to execute lane change
+2022-02,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-02,3LN6L5MU1JR627234,Test Driver,Highway,Driver precautionary disengagement due to aggressive cut-in by other vehicle
+2022-02,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-02,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-02,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to conditions exceeding ODD
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver precautionary disengagement due to aggressive cut-in by other vehicle
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the planning of lane change
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-03,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver precautionary disengagement due to aggressive cut-in by other vehicle
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to conditions exceeding ODD
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of system load
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver precautionary disengagement due to aggressive cut-in by other vehicle
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver precautionary disengagement due to aggressive cut-in by other vehicle
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to delayed response to vehicle cut-in
+2022-04,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-06,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-06,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-07,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to perception discrepancy in the false detection of vehicle merging into ego vehicle
+2022-07,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to planning discrepancy in yielding to merging vehicle
+2022-07,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory
+2022-07,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to delayed response to vehicle cut-in
+2022-07,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-08,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of sensor input delay
+2022-08,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to perception discrepancy in the detection of  vehicle merging into ego vehicle
+2022-09,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of positioning discrepancy
+2022-09,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to safety monitor notification of positioning discrepancy
+2022-10,3LN6L5MU1JR627234,Test Driver,Highway,Driver disengagement due to conditions exceeding ODD

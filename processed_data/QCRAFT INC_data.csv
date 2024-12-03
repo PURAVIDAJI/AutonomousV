@@ -1,0 +1,4 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2021-03,3LN6L5MU8JR627232,Test Driver,Street,Precautionary Takeover: Oncoming traffic occupied the current planned path therefor takeover was initiated
+2021-06,3LN6L5MU8JR627232,Test Driver,Street,"Precautionary Takeover: The camera is covered by dust, so the traffic light is not recognized,  therefor takeover was initiated"
+2021-07,3LN6L5MU8JR627232,AV System,Street,An error message is received due to a time synchronization problem

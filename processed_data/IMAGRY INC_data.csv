@@ -1,0 +1,205 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Unplanned acceleration due to inaccurate path planning 
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic sign detection
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate car detection
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate road perception
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate road perception
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-03,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road lines perception
+2022-04,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic light detection
+2022-04,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to passing car on red light
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Unplanned acceleration due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate road lines perception
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic light detection
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Unplanned acceleration due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate road perception
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Unplanned acceleration due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate object detection
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate road lines perception
+2022-05,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-06,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-07,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate car detection
+2022-07,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-07,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-07,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-07,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road lines perception
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic light detection
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic light detection
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate decision making
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate road perception
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic sign detection
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 
+2022-08,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road lines perception
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Unplanned deceleration due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic sign detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic light detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate car detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for pedestrian due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late acceleration  due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate object detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate traffic sign detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road lines perception
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate road perception
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate car detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late acceleration  due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for pedestrian due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to construction area
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not entering intersection due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate object detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic sign detection
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Unplanned deceleration due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate decision making
+2022-09,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road lines perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate road lines perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late acceleration  due to inaccurate decision making
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to innacurate path intent
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to innacurate road perception 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to innacurate road perception 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to innacurate road perception 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for pedestrian due to inaccurate decision making
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late acceleration  due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate object detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate decision making
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate road lines perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road lines perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate road lines perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate traffic light detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate road lines perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping at intersection due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late acceleration  due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not entering intersection due to inaccurate road perception
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate object detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not stopping for vehicle due to inaccurate decision making
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-keeping due to inaccurate path planning 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Late deceleration due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not entering intersection due to inaccurate decision making
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Incorrect swerving for object due to inaccurate path planning 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Precautious disengagement due to inaccurate car detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Not entering intersection due to inaccurate object detection
+2022-10,KNDCB3LC8J5206489,Test Driver,Street,Vehicle driver took over for safety. Inaccurate lane-switching due to inaccurate path planning 

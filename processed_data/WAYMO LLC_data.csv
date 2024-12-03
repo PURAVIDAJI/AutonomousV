@@ -1,0 +1,171 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2022-11,SADHW2S18M1617573,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-11,SADHW2S17M1616527,AV System,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-11,SADHW2S13M1615519,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-11,SADHW2S14M1616033,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-11,SADHW2S15M1615568,Test Driver,Highway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-11,SADHW2S10M1616692,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-11,SADHW2S18M1617007,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-11,SADHW2S11M1616281,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S10M1615624,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S19M1617016,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-10,SADHW2S19M1617016,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-10,SADHW2S14M1617523,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S19M1616755,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S13M1615486,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-10,SADHW2S1XM1617638,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S10M1617101,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-10,SADHW2S19M1617422,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S19M1615749,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S10M1616692,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S16M1616972,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-10,SADHW2S16M1616549,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-10,SADHW2S17M1615619,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-10,SADHW2S1XM1615937,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-10,SADHW2S19M1615248,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S16M1617569,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S11M1616300,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S12M1615687,Test Driver,Highway,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-09,SADHW2S10M1617583,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S10M1615879,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S19M1615816,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S13M1616542,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-09,SADHW2S11M1616748,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-09,SADHW2S12M1616726,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-09,SADHW2S14M1615190,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S18M1616021,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-09,SADHW2S13M1616542,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S12M1615687,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-09,SADHW2S19M1615671,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-09,SADHW2S12M1617651,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-08,SADHW2S19M1617520,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-08,SADHW2S16M1615353,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-08,SADHW2S12M1616600,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-08,SADHW2S18M1617573,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-08,SADHW2S14M1616517,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-08,SADHW2S10M1615963,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-08,SADHW2S15M1615599,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-08,SADHW2S13M1616542,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-08,SADHW2S17M1615703,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-08,SADHW2S13M1616928,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-08,SADHW2S11M1616572,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-08,SADHW2S13M1616928,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S13M1616542,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-07,SADHW2S19M1616755,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S15M1615716,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S10M1616692,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S15M1616218,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-07,SADHW2S15M1616218,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-07,SADHW2S17M1615619,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S11M1616281,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-07,SADHW2S12M1615947,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S18M1615922,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S10M1616837,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-07,SADHW2S19M1617016,Test Driver,Street,Disengage for incorrect behavior prediction of other traffic participants
+2022-07,SADHW2S14M1615643,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-07,SADHW2S19M1615699,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S10M1617177,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-07,SADHW2S10M1617101,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S17M1616799,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-06,SADHW2S17M1616799,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S17M1615619,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S19M1615749,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-06,SADHW2S15M1616008,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S10M1616837,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S16M1615823,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-06,SADHW2S16M1615823,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S16M1615823,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S10M1617440,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S10M1617440,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S11M1616118,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-06,SADHW2S16M1615871,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S12M1616158,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-06,SADHW2S13M1617464,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-05,SADHW2S12M1616726,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-05,SADHW2S16M1616051,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-05,SADHW2S19M1615671,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S15M1616140,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-05,SADHW2S1XM1617588,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S11M1617625,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-05,SADHW2S10M1616613,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-05,SADHW2S19M1615749,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S15M1615635,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S19M1615864,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-05,SADHW2S10M1616613,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S13M1616928,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S16M1617541,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S19M1617288,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S1XM1616893,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S18M1617248,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S16M1617541,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S16M1617541,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S10M1615767,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S19M1615539,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S12M1616029,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-05,SADHW2S16M1615501,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S15M1616333,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S12M1615141,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S19M1616187,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S15M1617546,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S10M1617440,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S12M1616662,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S14M1617537,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S15M1616333,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S15M1616333,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S13M1615469,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S18M1617248,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S12M1617651,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S12M1615687,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S11M1615857,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S16M1616325,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S18M1617248,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-04,SADHW2S18M1617573,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S19M1617615,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S14M1615447,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S14M1615447,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S12M1616662,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-04,SADHW2S11M1617365,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-04,SADHW2S12M1615849,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-04,SADHW2S15M1617238,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-04,SADHW2S10M1617633,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-04,SADHW2S11M1617186,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2022-03,SADHW2S19M1615539,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-03,SADHW2S19M1615721,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-03,SADHW2S1XM1616232,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-03,SADHW2S1XM1615176,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2022-03,SADHW2S10M1617177,AV System,Street,Disengage for a hardware discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a hardware component of the self-driving system or a component of the base vehicle
+2022-03,SADHW2S13M1615813,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-03,SADHW2S13M1615813,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-03,SADHW2S1XM1615761,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-03,SADHW2S12M1616726,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-03,SADHW2S13M1616587,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-03,SADHW2S18M1616939,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-03,SADHW2S19M1616853,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-03,SADHW2S19M1615816,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S11M1616880,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S11M1617611,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-02,SADHW2S16M1617541,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S18M1617394,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S1XM1617638,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S10M1616837,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-02,SADHW2S18M1616021,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-02,SADHW2S16M1615501,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S14M1617604,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S18M1617007,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S15M1616560,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-02,SADHW2S14M1617537,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-02,SADHW2S17M1615605,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-02,SADHW2S19M1616609,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-01,SADHW2S17M1616799,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-01,SADHW2S10M1616773,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2022-01,SADHW2S10M1616773,AV System,Street,Disengage for a hardware discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a hardware component of the self-driving system or a component of the base vehicle
+2022-01,SADHW2S19M1615721,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-01,SADHW2S16M1615613,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-01,SADHW2S14M1614847,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-01,SADHW2S16M1615305,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2021-12,SADHW2S10M1616448,AV System,Street,Disengage for a hardware discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a hardware component of the self-driving system or a component of the base vehicle
+2021-12,SADHW2S10M1616448,AV System,Street,Disengage for a hardware discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a hardware component of the self-driving system or a component of the base vehicle
+2021-12,SADHW2S15M1617546,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2021-12,SADHW2S16M1615501,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2021-12,SADHW2S18M1617007,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2021-12,SADHW2S14M1616792,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly

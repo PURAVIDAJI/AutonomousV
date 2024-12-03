@@ -1,0 +1,4 @@
+Month,Car,TypeOfTrigger,Location,Cause
+Unknown,1N4AZ1CP5KC307681,Test Driver,Highway,"Discrepancy in planning. While AV merged into highway, a car aggressively cut in crossing solid white line"
+Unknown,1N4AZ1CP4KC303668,Test Driver,Street,"Discrepancy in planning. When AV almost finished the right turn, a vehicle from the rear side still ran fast towards AV"
+Unknown,1N4AZ1CP3KC301099,Test Driver,Street,"Discrepancy in planning. While throughlanes were fully blocked by traffic jam, AV was trying to diverge to the right lane but too close to other vehicles"

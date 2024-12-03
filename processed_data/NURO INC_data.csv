@@ -1,0 +1,16 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2021-12,JTDKN3DPXF3070616,Test Driver,Street,Mapping: Inaccurate map tiles due led to overlap with physical bike lane separator
+2021-12,JTDKN3DPXE3050185,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for cyclist with agent behind
+2022-01,JTDKN3DP3D3041696,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for oncoming vehicle
+2022-01,JTDKN3DP1C3010476,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for oncoming vehicle
+2022-01,JTDKN3DP8D3037839,Test Driver,Street,Mapping: Inaccurate map tiles due to new construction led to overlap with curb
+2022-02,JTDKN3DPXF3070616,Test Driver,Street,Mapping: Inaccurate map tiles due to new construction led to overlap with curb
+2022-02,JTDKN3DP8D3037837,Test Driver,Street,Object Perception: Late to perceive animal crossing the road
+2022-04,JTDKN3DP8D3037837,Test Driver,Street,Planning Logic: Planner trajectory shifts into adjacent lane with passing vehicle
+2022-05,JTDKN3DP2C3011362,Test Driver,Street,Object Perception: Incorrectly perceived inroad object led to unwanted braking
+2022-05,JTDKN3DP8D3041242,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for agent pulling out from street parking
+2022-05,JTDKN3DP3D3041696,Test Driver,Street,Planning Logic: Planner trajectory inadequately pulls over with agent behind
+2022-05,JTDKN3DP9C3015182,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for tailgating agent
+2022-08,JTDKN3DP3D3041696,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for oncoming vehicle
+2022-09,JTDKN3DP6D3042633,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for oncoming vehicle
+2022-10,JTDKN3DP2C3011362,Test Driver,Street,Planning Logic: Incorrect behavior prediction for reversing agent results in incorrect stopping location

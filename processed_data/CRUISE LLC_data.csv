@@ -1,0 +1,10 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2021-12,5G21A6P08L4100187,Test Driver,Street,Precautionary takeover to address prediction; lane encroachment
+2021-12,5G21A6P03L4100016,Test Driver,Street,"Other road user behaving poorly, making illegal left turn in front of AV that was traveling straight"
+2022-01,5G21A6P07L4100066,Test Driver,Street,"Other road user behaving poorly, making illegal turn in front of AV traveling straight"
+2022-01,5G21A6P04L4100140,Test Driver,Street,Precautionary takeover to address planning; lane keeping
+2022-06,5G21A6P09P4100057,Test Driver,Street,Precautionary takeover to address planning; close trailing vehicle
+2022-07,5G21A6P02N4121622,Test Driver,Street,Other road user behaving poorly; lane encroachment
+2022-07,5G21A6P0XL4100188,Test Driver,Street,Other road user behaving poorly; close training vehicle
+2022-07,5G21A6P09L4100182,Test Driver,Street,Precautionary takeover to address perception; close trailing vehicle
+2022-10,5G21A6P05N4121596,Test Driver,Street,Precautionary takeover to address planning; close trailing vehicle

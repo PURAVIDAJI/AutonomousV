@@ -1,0 +1,136 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2022-02,KMHKW3AA2L1T98029,Test Driver,Street,Planning Discrepancy: Disengaged due to planning trajectory scoring issue leading to insufficient braking for actor vehicle in front of the Autonomous Vehicle (AV)
+2022-02,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-02,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-02,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-02,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-02,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Planning Discrepancy: Disengaged due to planning trajectory scoring issue causing the Autonomous Vehicle (AV) to maneuver close to the parked vehicles
+2022-03,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-03,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-03,KMHKW3AA4L1T98033,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-04,KMHKW3AA6L1T98017,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-04,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-04,KMHKW3AA1L1T98023,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-06,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-06,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-06,KMHKM4AE6M1P98014,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-06,KMHKM4AE6M1P98014,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system
+2022-07,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-07,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-07,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-07,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-07,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-07,KMHKW3AA2L1T98029,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-09,KMHKM4AE0M1P98011,Test Driver,Street,Prediction Discrepancy: Disengaged due to inaccurate lead vehicle predictions prior to the Autonomous Vehicle (AV) turning left at an intersection
+2022-09,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-09,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-09,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-09,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Prediction Discrepancy: Disengaged due to inaccurate oncoming traffic predictions as the Autonomous Vehicle (AV) is turning left at an intersection
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Planning Discrepancy: Disengaged due to insufficient lateral clearance to the curb while performing a lane change
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-09,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Perception Discrepancy: Disengaged due to inaccurate tracking for a vehicle reversing in front of the Autonomous Vehicle (AV)
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Prediction Discrepancy: Disengaged due to inconsistent prediction trajectory for a bus merging in front of the Autonomous Vehicle (AV) vehicle
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,"Mapping Discrepancy: Disengaged due to inaccurate real world map representation, traffic light shape in this case"
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-10,KMHKW3AA6L1T98017,Test Driver,Street,Prediction Discrepancy: Disengaged due to inaccurate oncoming traffic predictions as the Autonomous Vehicle (AV) is turning left at an intersection
+2022-10,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Perception Discrepancy: Disengaged due to inaccurate tracking for a vehicle reversing in front of the Autonomous Vehicle (AV)
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Perception Discrepancy: Disengaged due to inconsistent detection and tracking for a motorcycle in front of the Autonomous Vehicle (AV) at a traffic light
+2022-10,KMHKW3AA6L1T98017,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-10,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA6L1T98017,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA6L1T98020,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA6L1T98017,Test Driver,Street,Prediction Discrepancy: Disengaged due to inconsistent pedestrian predictions at a crosswalk
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA6L1T98017,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKW3AA6L1T98020,Test Driver,Street,Prediction Discrepancy: Disengaged due to inconsistent actor vehicle predictions at an intersection while Autonomous Vehicle (AV) is turning right
+2022-11,KMHKW3AA3L1T98041,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE3M1P98004,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE3M1P98004,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE3M1P98004,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE3M1P98004,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system
+2022-11,KMHKM4AE0M1P98011,Test Driver,Street,Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system

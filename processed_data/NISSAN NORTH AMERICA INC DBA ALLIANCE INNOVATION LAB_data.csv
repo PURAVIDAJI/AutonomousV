@@ -1,0 +1,9 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2022-01,1N4AZ1CP9KC308252,Test Driver,Street,"The AV did not see the traffic light and the AV stopped for a green light. As a result, the driver safely disengaged and resumed manual control."
+2022-01,1N4AZ1CP9KC308252,Test Driver,Street,"The AV was approaching a turn too fast. As a result, the driver safely disengaged and resumed manual control."
+2022-01,1N4AZ1CP9KC308252,Test Driver,Street,"When the AV was making a lane change, too much acceleration was observed despite a set target speed. As a result, the driver safely disengaged and resumed manual control."
+2022-03,1N4AZ1CP9KC308252,Test Driver,Street,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the curb. As a result, Driver safely disengaged and resumed manual control."
+2022-03,1N4AZ1CP9KC308252,Test Driver,Street,"The AV Software module that  generates a plan generated a wrong path different from desired path. As a result, Driver safely disengaged and resumed manual control."
+2022-06,1N4AZ1CP9KC308252,Test Driver,Street,"The AV was block by a car double park on the street, the AV as not able to go around due to incoming traffic. As a result, Driver safely disengaged and resumed manual control."
+2022-08,1N4AZ1CP9KC308252,Test Driver,Street,"The AV didn't yield to vehicle turning left while AV was turning right. As a result, Driver safely disengaged and resumed manual control."
+2022-09,1N4AZ1CP9KC308252,Test Driver,Street,"The AV stopped for a construction zone due to lane blockage. As a result, Driver safely disengaged and resumed manual control."

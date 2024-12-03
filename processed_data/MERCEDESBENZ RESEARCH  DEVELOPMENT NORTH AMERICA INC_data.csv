@@ -1,0 +1,39 @@
+Month,Car,TypeOfTrigger,Location,Cause
+2021-12,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. This was accomplished by pressing the brake pedal to reduce the velocity of the vehicle.
+2021-12,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. The driver performed a steering manouver to correct the trajectory of the vehicle.
+2022-01,WDD2221591A470500,AV System,Street,The system disengaged because of an error with the fusion component. The system asked the operator to take control of the vehicle.
+2022-01,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. This was achieved by pressing the accelerator pedal to increase velocity of the vehicle.
+2022-01,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. This was accomplished by pressing the brake pedal to reduce the velocity of the vehicle.
+2022-02,WDD2221591A470500,AV System,Street,The system disengaged because of an error with the fusion component. The system asked the operator to take control of the vehicle.
+2022-02,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. This was achieved by pressing the accelerator pedal to increase velocity of the vehicle.
+2022-02,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. The driver performed a steering manouver to correct the trajectory of the vehicle.
+2022-03,W1K2230631A002956,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-03,W1K2231631A014115,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-03,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. The driver performed a steering manouver to correct the trajectory of the vehicle.
+2022-03,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. This was accomplished by pressing the brake pedal to reduce the velocity of the vehicle.
+2022-03,WDD2221591A470500,Test Driver,Street,The operator disengaged the system manually to remain in the operational design domain. This was accomplished by pressing the brake pedal to reduce the velocity of the vehicle.
+2022-03,WDD2221591A470500,AV System,Street,The system disengaged because of an error with the fusion component. The system asked the operator to take control of the vehicle.
+2022-03,W1K2231601A014075,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-03,W1K2231601A014075,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-05,W1K2231601A014075,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-05,W1K2231601A014075,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-06,W1K2230631A026690,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-06,W1K2231331A002576,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-06,W1K2230631A026690,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-08,W1K2231601A014075,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-08,W1K2230631A026690,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-08,W1K2231631A014154,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-08,W1K2231631A026703,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-08,W1K2230631A026690,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-08,W1K2230631A002956,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-09,W1K2231631A014115,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-09,W1K2231631A014154,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-09,W1K2231631A014154,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-09,W1K2231631A014154,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-10,W1K2231611A014077,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-10,W1K2230631A026670,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-10,W1K2230631A026690,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-11,W1K2230631A026690,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-11,W1K2231631A014154,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-11,W1K2231601A014075,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   
+2022-11,W1K2230631A026690,Test Driver,Highway,Invalid control unit operation.Test driver disengaged due to planning system choosing a trajectory that is too fast and aggressive.   

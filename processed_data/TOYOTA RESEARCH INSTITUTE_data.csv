@@ -1,0 +1,113 @@
+Month,Car,TypeOfTrigger,Location,Cause
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue."
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue."
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate steering.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate steering.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue."
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to re-center vehicle in lane.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to re-center vehicle in lane.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate steering.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0K5001429,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0K5001429,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to re-center vehicle in lane.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to re-center vehicle in lane.
+Unknown,JTHCYLFF0K5001429,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue."
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0K5001429,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate steering.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to re-center vehicle in lane. 
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+Unknown,JTHCYLFF0K5001429,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF0K5001429,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue."
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate steering.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to cut-in issue.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to inappropriate braking proposal.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue."
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFFXJ5001291,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode due to issue with lane change maneuver.
+Unknown,JTHCYLFF9J5001363,Test Driver,street,Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.
+Unknown,JTHCYLFF0J5001364,Test Driver,street,Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.
