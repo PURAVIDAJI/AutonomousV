@@ -1,0 +1,5 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Planning and Prediction Discrepancy,Trajectory Estimation and Planning Error,Planning/Prediction Issue,8
+Prediction Discrepancy,Trajectory Estimation Error,Prediction Modeling Error,12
+Planning Discrepancy,Trajectory Planning Error,Planning/System Decision Issue,8
+Perception and Prediction Discrepancy,Environmental Awareness Error,Perception/Prediction Issue,1

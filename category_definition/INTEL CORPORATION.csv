@@ -1,0 +1,9 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Resume control for path maintenance,Path Maintenance,Driver Intervention,72
+Prompted due to system error,System Error,System Failure,58
+Takeover for giving priority to road users,Road User Priority,Driver Intervention,32
+Resume control for traffic conditions,Traffic Conditions,Driver Intervention,10
+Takeover due to obstacle in path,Obstacle Avoidance,Driver Intervention,8
+Takeover for junction clearance,Junction Clearance,Driver Intervention,4
+Resume control due to construction,Construction,Driver Intervention,1
+Takeover for unnecessary lane change,Lane Change,Driver Intervention,1

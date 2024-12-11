@@ -1,0 +1,7 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Car double parked - Cannot cross double yellow,ODD Issue,Operational Limitation,22
+Localization component crash,Software Crash,Software Issue,17
+Hesitation at stop,Ego Hesitation,Behavior Issue,12
+Traffic light misperceived as red,Perception Failure,Perception System,10
+Takeover near pedestrian,Safety Takeover,Driver Intervention,8
+Takeover due to close parking,Driver Decision,Driver Intervention,3

@@ -1,0 +1,8 @@
+Keyword, Fault Tag,	Failure Category, Occurrences
+Precautionary takeover, Prediction/Lane Encroachment, Prediction-based takeover for safety, 2
+Precautionary takeover, Planning/Close Trailing Vehicle, Planning-based takeover for safety, 2
+Other road user behaving poorly, Illegal Turn, Safety response to illegal actions, 2
+Precautionary takeover, Planning/Lane Keeping, Planning-based takeover for safety, 1
+Precautionary takeover, Perception/Close Trailing Vehicle, Perception-based takeover for safety, 1
+Other road user behaving poorly, Lane Encroachment, Safety response to improper driving, 1
+Other road user behaving poorly, Close Trailing Vehicle,Safety response to improper driving, 1

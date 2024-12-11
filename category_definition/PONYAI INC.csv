@@ -1,0 +1,10 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Rear-end Risk,Precautionary Intervention,Driving Behavior,5
+Perception Deficiency,Object Detection Issue,Perception System,3
+Illegal Vehicle Maneuver,Vehicle Interaction Issue,Driving Interaction,3
+Right of Way Violation,Traffic Rule Issue,Driving Behavior,4
+Parking Incident,Parking Interaction,Driving Interaction,2
+Railway Gate Misstop,Decision-making Error,Control System,2
+Left Turn Conflict,Planning Error,Control System,2
+Cut-off Vehicle,Reaction Delay,Driving Behavior,3
+

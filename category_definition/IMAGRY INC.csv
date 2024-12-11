@@ -1,0 +1,12 @@
+Keyword, Fault Tag,	Failure Category, Occurrences
+Incorrect swerving for object,	Path Planning,	Inaccurate Path Planning,	70
+Inaccurate lane-keeping,	Path Planning/Car Detection/Road Perception,	Inaccurate Lane Maintenance,	60
+Not stopping at intersection,	Traffic Light/Sign Detection/Road Perception,	Inaccurate Traffic Detection,	21
+Inaccurate lane-switching,	Path Planning/Road Lines Perception,	Inaccurate Lane Change,	13
+Unplanned acceleration,	Path Planning,	Inaccurate Path Planning,	11
+Late deceleration,	Path Planning/Car Detection,	Delayed Braking,	10
+Precautious disengagement,	Construction/Environmental Perception,	Safety Precaution,	10
+Not stopping for vehicle,	Car Detection/Decision Making,	Inaccurate Vehicle Recognition,	8
+Late acceleration,	Decision Making/Road Perception,	Delayed Acceleration,	4
+Not entering intersection,	Decision Making,	Inaccurate Decision Making,	3
+Not stopping for pedestrian,	Path Planning,	Inaccurate Pedestrian Handling,	2
