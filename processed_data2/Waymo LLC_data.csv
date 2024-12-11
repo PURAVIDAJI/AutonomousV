@@ -1,0 +1,215 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2023-11,SADHW2S17M1614678,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-11,SADHW2S13M1602690,No,Yes,Test Driver,Street,Disengage for a recklessly behaving road user
+2023-11,SADHW2S19M1616044,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-11,SADHW2S1XM1614898,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-11,SADHW2S11M1616300,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-11,SADHW2S12M1616581,No,Yes,Test Driver,Parking facility,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-11,SADHW2S16M1615112,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-11,SADHW2S1XM1602671,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S18M1606251,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S14M1615478,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S19M1615721,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S18M1617007,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S16M1615577,No,Yes,AV System,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S1XM1602671,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S16M1615904,No,Yes,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S15M1602660,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-10,SADHW2S10M1615977,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S18M1602698,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S16M1602621,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S1XM1602704,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-10,SADHW2S16M1602621,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-10,SADHW2S10M1615977,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-10,SADHW2S18M1602684,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-10,SADHW2S18M1615225,No,Yes,AV System,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-09,SADHW2S15M1602674,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-09,SADHW2S1XM1606137,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-09,SADHW2S12M1616581,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-09,SADHW2S18M1617007,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-09,SADHW2S12M1615690,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-09,SADHW2S16M1615465,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-09,SADHW2S16M1615112,No,Yes,AV System,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-09,SADHW2S19M1615864,No,Yes,Test Driver,Street,Disengage for a recklessly behaving road user
+2023-08,SADHW2S18M1615225,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S11M1614742,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S18M1602684,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S17M1617595,No,Yes,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S16M1602621,No,Yes,AV System,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S16M1602621,No,Yes,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S10M1615199,No,Yes,AV System,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-08,SADHW2S10M1614408,No,Yes,Test Driver,Freeway,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-08,SADHW2S19M1615282,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S19M1615816,No,Yes,AV System,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-08,SADHW2S16M1605972,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-08,SADHW2S11M1614661,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S16M1615501,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S18M1615838,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S10M1614568,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-08,SADHW2S15M1617319,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-07,SADHW2S13M1614497,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-07,SADHW2S1XM1614898,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-07,SADHW2S15M1616333,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-07,SADHW2S13M1602740,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-07,SADHW2S18M1617007,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-07,SADHW2S15M1614551,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-07,SADHW2S15M1615716,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-07,SADHW2S18M1614964,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-07,SADHW2S12M1615690,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-07,SADHW2S16M1615577,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-07,SADHW2S13M1615469,No,Yes,AV System,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-06,SADHW2S16M1615482,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-06,SADHW2S10M1615199,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-06,SADHW2S19M1616853,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-06,SADHW2S10M1615624,No,Yes,Test Driver,Street,Disengage for a recklessly behaving road user
+2023-06,SADHW2S19M1617579,No,Yes,AV System,Highway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-06,SADHW2S19M1615668,No,Yes,AV System,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-06,SADHW2S13M1615486,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-06,SADHW2S16M1617507,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-06,SADHW2S12M1616029,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-06,SADHW2S11M1615583,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-05,SADHW2S16M1615482,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S18M1615709,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S16M1615482,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S13M1615519,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S13M1615813,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S17M1616799,No,Yes,AV System,Highway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-05,SADHW2S16M1615465,No,Yes,AV System,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-05,SADHW2S1XM1614447,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S1XM1617560,No,Yes,Test Driver,Interstate,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-05,SADHW2S16M1617507,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S17M1615989,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S19M1614696,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-05,SADHW2S11M1614661,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-05,SADHW2S17M1616799,No,Yes,Test Driver,Freeway,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-05,SADHW2S11M1615857,No,Yes,Test Driver,Freeway,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-04,SADHW2S13M1616587,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S16M1615465,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S15M1616090,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-04,SADHW2S12M1616001,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-04,SADHW2S19M1614696,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S12M1616824,No,Yes,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S10M1615624,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-04,SADHW2S13M1614614,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S16M1615790,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S12M1614930,No,Yes,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S14M1616565,No,Yes,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S16M1615501,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S16M1614798,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S12M1616600,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S19M1616349,No,Yes,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S13M1616542,No,Yes,Test Driver,Interstate,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-04,SADHW2S19M1617016,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S18M1615564,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S13M1615374,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S11M1615583,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-04,SADHW2S11M1614661,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S19M1615282,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-04,SADHW2S12M1616001,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S16M1615871,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S15M1616462,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S16M1617507,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S13M1616427,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S11M1617625,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S11M1615549,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-04,SADHW2S19M1617288,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-04,SADHW2S11M1615857,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S18M1617248,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S19M1617016,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S1XM1615937,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S10M1616613,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S18M1615970,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S19M1617565,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S18M1617024,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S14M1616565,No,Yes,AV System,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S11M1616698,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S15M1616638,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S18M1617248,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S18M1617122,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S18M1617007,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S1XM1616960,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S1XM1616960,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S13M1617528,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S19M1616108,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S1XM1615937,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S10M1617177,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S17M1616592,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S10M1616501,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S14M1616985,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S15M1616090,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S14M1617604,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S19M1617078,No,Yes,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S17M1615619,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S19M1617064,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S18M1617430,No,Yes,Test Driver,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S14M1616517,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S16M1615871,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S16M1616325,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S10M1616644,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S18M1617248,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S18M1616939,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S18M1617007,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S18M1616939,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S14M1617604,No,Yes,Test Driver,Freeway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S16M1616549,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S19M1615749,No,Yes,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S12M1617309,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S12M1615897,No,Yes,Test Driver,Street,Disengage for a recklessly behaving road user
+2023-03,SADHW2S15M1616686,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S15M1616686,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S17M1616799,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S19M1616187,No,Yes,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S10M1617583,No,Yes,AV System,Highway,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S19M1616187,No,Yes,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S17M1616527,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S1XM1617560,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S19M1615749,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S14M1617327,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-03,SADHW2S16M1616860,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S15M1616705,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S1XM1617638,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-03,SADHW2S11M1615678,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S15M1616705,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-03,SADHW2S15M1616767,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S19M1616108,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S1XM1617638,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S10M1616644,No,Yes,Test Driver,Interstate,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-02,SADHW2S10M1616613,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S11M1616748,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S15M1616767,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S19M1615282,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S11M1616880,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S19M1616755,No,Yes,Test Driver,Interstate,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S11M1616698,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S12M1616824,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S10M1616501,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S17M1617595,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-02,SADHW2S18M1617248,No,Yes,AV System,Freeway,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S19M1617064,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S11M1616698,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-02,SADHW2S1XM1617560,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-02,SADHW2S15M1616008,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-01,SADHW2S17M1616656,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-01,SADHW2S18M1616939,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-01,SADHW2S11M1616281,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-01,SADHW2S11M1616880,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-01,SADHW2S19M1617565,No,Yes,AV System,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-01,SADHW2S18M1616021,No,Yes,AV System,Street,Disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component
+2023-01,SADHW2S10M1615624,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-01,SADHW2S14M1615383,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-01,SADHW2S10M1616692,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2023-01,SADHW2S13M1615519,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-01,SADHW2S1XM1617414,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-01,SADHW2S11M1616992,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2023-01,SADHW2S10M1617647,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-12,SADHW2S14M1616341,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-12,SADHW2S14M1615190,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-12,SADHW2S19M1616674,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-12,SADHW2S13M1615505,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-12,SADHW2S12M1616600,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-12,SADHW2S18M1616939,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-12,SADHW2S14M1615383,No,Yes,Test Driver,Street,Disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly
+2022-12,SADHW2S19M1616755,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances
+2022-12,SADHW2S17M1615684,No,Yes,Test Driver,Street,Disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances

@@ -1,0 +1,127 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2023-11,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-11,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The system incorrectly perceived an element in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-11,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The system incorrectly perceived an element in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-11,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-11,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to object detection discrepancy
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to object detection discrepancy
+2023-11,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to object detection discrepancy
+2023-11,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-11,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-10,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"System planned inaccurate trajectory to overtake another vehicle, due to inaccurate path planning"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-10,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-10,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-10,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-10,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"System planned inaccurate trajectory to overtake another vehicle, due to inaccurate path planning"
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-09,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-06,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-06,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-06,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-switching due to inaccurate path planning
+2023-06,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-06,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-05,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-05,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to object detection discrepancy
+2023-05,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-05,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-05,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-05,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-05,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to object detection discrepancy
+2023-05,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-05,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-05,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane
+2023-04,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-04,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-04,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-04,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-04,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-04,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-04,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to object detection discrepancy
+2023-04,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-04,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-04,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-04,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-04,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-03,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Turning close to curb due to inaccurate controller or path planning
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-03,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-03,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-03,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-03,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-03,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-03,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"System planned inaccurate trajectory to overtake another vehicle, due to inaccurate path planning"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane
+2023-02,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane
+2023-02,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LCOJ5177246,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to inaccurate path planning
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,"The systemï¿½incorrectly perceived an elementï¿½in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement"
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-02,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to incorrectly perceived elementï¿½in the surrounding environment of the vehicle
+2023-01,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Inaccurate lane-keeping due to object detection discrepancy
+2023-01,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary
+2023-01,KNDCB3LC8J5206489,No,Yes,Test Driver,Street,Late deceleration due to incorrect behaviour prediction of another traffic participant

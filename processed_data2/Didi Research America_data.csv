@@ -1,0 +1,4 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2023-03,3LN6L5MU1JR609431,No,Yes,Test Driver,Street,Disengagement for a missed detection by a component of perception system of the lead vehicle (trailer truck).

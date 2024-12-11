@@ -1,0 +1,50 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2023-03,5TDYRKEC7MS056267,No,Yes,AV System,Street,System software failure in the planning module when approaching an onramp onto the highway in clear weather.
+2023-04,5TDYRKEC7MS056267,No,Yes,AV System,Street,System software failure in the planning module when making a left turn at an intersection in clear weather. 
+2023-06,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the planning module while proceeding straight with low traffic on highway in cloudy weather.
+2023-06,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the planning module while proceeding straight with low traffic on highway in cloudy weather.
+2023-07,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the planning module while entering a cloverleaf ramp on the highway due to a policy disengagement zone in clear weather. 
+2023-07,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the planning module while entering a cloverleaf ramp on the highway due to a policy disengagement zone in clear weather. 
+2023-07,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather. Disengagement occurred when AV attempted to lane change.
+2023-07,5TDYRKEC7MS056267,No,Yes,AV System,Street,A system software failure in the planner module during lane change on surface street approaching an intersection in cloudy weather likely due to the curvature of the mapped lane. 
+2023-07,5TDYRKEC7MS056267,No,Yes,AV System,Street,System software failure in the mapping module when detecting an incorrectly mapped traffic light at an intersection in clear weather. 
+2023-07,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the planning module while entering a cloverleaf ramp on the highway due to a policy disengagement zone in clear weather. 
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the planning module while entering a cloverleaf ramp on the highway due to a policy disengagement zone in clear weather. 
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Street,System software failure in the mapping module when detecting an incorrectly mapped traffic light at an intersection in clear weather. 
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the planning module while entering a cloverleaf ramp on the highway due to a policy disengagement zone in clear weather. 
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Street,System software failure in the mapping module when detecting an incorrectly mapped traffic light at an intersection in clear weather. 
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Street,System software failure in the perception module while proceeding straight at low speed on a highway offramp in clear weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight at low speed with heavy traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,"System software failure in the perception module while proceeding straight with medium traffic on highway, in cloudy weather."
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with medium traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with medium traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with medium traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with medium traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with medium traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight on an onramp with low traffic on highway in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Street,System software failure in the perception module while stopped at a stoplight at an intersection with an adjacent vehicle in surface street in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Street,A system software failure in the planner module during lane change on surface street approaching an intersection in cloudy weather likely due to the curvature of the mapped lane. 
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Street,A system software failure in the planner module while approaching an intersection on surface street in cloudy weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight on an onramp with low traffic on highway in cloudy weather. Hazards activated prior to software disengagement.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with no traffic on highway in clear weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in clear weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in clear weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with low traffic on highway in clear weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with medium traffic on highway in clear weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight with medium traffic on highway in clear weather.
+2023-08,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while proceeding straight at low speed with medium traffic on highway in clear weather.
+2023-11,5TDYRKEC7MS056267,No,Yes,AV System,Street,A system software failure in the planner module during lane change on surface street in clear weather likely due to the curvature of the mapped lane. 
+2023-11,5TDYRKEC7MS056267,No,Yes,AV System,Street,A system software failure in the planner module during lane change on surface street approaching an intersection in cloudy weather likely due to the curvature of the mapped lane. 
+2023-11,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while entering a cloverleaf ramp on the highway in clear weather. 
+2023-11,5TDYRKEC7MS056267,No,Yes,AV System,Highway,System software failure in the perception module while entering a cloverleaf ramp on the highway in clear weather. 

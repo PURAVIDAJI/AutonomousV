@@ -1,0 +1,45 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2022-12,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged to manually drive past pedestrians near the road.
+2023-01,JTHCYLFF0J5001364,No,Yes,Test Driver,street,"Safety Driver disengaged due to inappropriate braking, caused by perception issue."
+2023-02,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged due to overly harsh braking.
+2023-03,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged because vehicle was mishandling a traffic light.
+2023-03,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged upon judging that vehicle was too close to road boundary.
+2023-04,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged due to inappropriate steering.
+2023-04,JTHCYLFF9J5001363,No,Yes,Test Driver,street,"Safety Driver disengaged due to inappropriate braking, caused by perception issue."
+2023-04,JTHCYLFF9J5001363,No,Yes,Test Driver,street,Safety Driver disengaged to re-center vehicle in lane.
+2023-05,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged upon judging that vehicle was too close to road boundary.
+2023-05,JTHBYLFF6J5002983,No,Yes,Test Driver,street,Safety Driver disengaged due to vehicle not giving enough space for cross traffic.
+2023-05,JTHBYLFF6J5002983,No,Yes,Test Driver,street,Safety Driver disengaged due to overly harsh braking.
+2023-06,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged to re-center vehicle in lane.
+2023-06,JTHCYLFF0K5001429,No,Yes,Test Driver,street,Safety Driver disengaged to re-center vehicle in lane.
+2023-06,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged due to cut-in issue.
+2023-06,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged because vehicle was mishandling a traffic light.
+2023-06,JTHCYLFF5J5000369,No,Yes,Test Driver,street,"Safety Driver disengaged due to inappropriate braking, caused by perception issue."
+2023-06,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged because vehicle was mishandling a traffic light.
+2023-06,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged to reduce speed.
+2023-06,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged due to cut-in issue.
+2023-06,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged to proceed through green traffic signal.
+2023-06,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged upon judging that vehicle was too close to road boundary.
+2023-06,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged to reduce speed.
+2023-07,JTHBYLFF6J5002983,No,Yes,Test Driver,street,Safety Driver disengaged due to cut-in issue.
+2023-07,JTHBYLFF6J5002983,No,Yes,Test Driver,street,Safety Driver disengaged upon judging that vehicle was too close to road boundary.
+2023-07,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged due to inappropriate braking proposal.
+2023-07,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged due to issue with lane change maneuver.
+2023-08,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged to proceed through green traffic signal.
+2023-08,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged because vehicle was mishandling a traffic light.
+2023-08,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged near crosswalk due to overly conservative vehicle behavior.
+2023-08,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged near crosswalk due to overly conservative vehicle behavior.
+2023-08,JTHBYLFF6J5002613,No,Yes,Test Driver,street,Safety Driver disengaged near crosswalk due to overly conservative vehicle behavior.
+2023-08,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged to proceed through green traffic signal.
+2023-08,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged because vehicle was mishandling a traffic light.
+2023-09,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged due to issue with lane change maneuver.
+2023-09,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged because vehicle was mishandling a traffic light.
+2023-09,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged near crosswalk due to overly conservative vehicle behavior.
+2023-09,JTHCYLFFXJ5001291,No,Yes,Test Driver,street,Safety Driver disengaged because vehicle was mishandling a traffic light.
+2023-09,JTHCYLFF5J5000369,No,Yes,Test Driver,street,Safety Driver disengaged to reduce speed.
+2023-10,JTHBYLFF6J5002613,No,Yes,Test Driver,street,"Safety Driver disengaged due to inappropriate braking proposal, caused by perception issue."
+2023-10,JTHBYLFF6J5002613,No,Yes,Test Driver,street,Safety Driver disengaged to re-center vehicle in lane.
+2023-10,JTHCYLFF0K5001446,No,Yes,Test Driver,street,Safety Driver disengaged upon judging that vehicle was too close to other road user or obstacle.
+2023-10,JTHCYLFF0J5001364,No,Yes,Test Driver,street,Safety Driver disengaged to re-center vehicle in lane.

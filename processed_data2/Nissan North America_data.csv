@@ -1,0 +1,20 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2023-03,1N4BZ0CP6GC302978,NO,YES,Test Driver,Street,"The AV was initiating a lane change, another vehicle was already on the other lane. As a result, the driver safely disengaged and resumed manual control."
+2023-03,1N4BZ0CP6GC302978,NO,YES,Test Driver,Street,"The AV didn't yield to vehicle turning left while AV was turning right. As a result, Driver safely disengaged and resumed manual control."
+2023-05,1N4BZ0CP6GC302978,NO,YES,Test Driver,Street,"The AV stopped for a construction zone due to lane blockage. As a result, Driver safely disengaged and resumed manual control."
+2023-10,1N4BZ0CP6GC302978,NO,YES,Test Driver,Street,"The AV was initiating a lane change, another vehicle was already on the other lane. As a result, the driver safely disengaged and resumed manual control."
+2023-01,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the curb. As a result, Driver safely disengaged and resumed manual control."
+2023-01,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the curb. As a result, Driver safely disengaged and resumed manual control."
+2023-05,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the curb. As a result, Driver safely disengaged and resumed manual control."
+2023-06,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the edge of the lane marking. As a result, Driver safely disengaged and resumed manual control."
+2023-08,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the edge of the lane marking. As a result, Driver safely disengaged and resumed manual control."
+2023-09,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the the inner radius of a right hand turn. As a result, Driver safely disengaged and resumed manual control."
+2023-09,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the edge of the lane marking. As a result, Driver safely disengaged and resumed manual control."
+2023-10,1N4AZ1CP7KC308251,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the the inner radius of a right hand turn. As a result, Driver safely disengaged and resumed manual control."
+2023-05,1N4AZ1CP9KC308252,NO,YES,Test Driver,Express Way,"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the the inner radius of a right hand turn. As a result, Driver safely disengaged and resumed manual control."
+2023-08,1N4AZ1CP9KC308252,NO,YES,Test Driver,Express Way,"The AV wasn't yielding enough to a vehicle merging and allowing enough gap for a confortable merge. As a result, Driver safely disengaged and resumed manual control."
+2023-08,1N4AZ1CP9KC308252,NO,YES,Test Driver,Express Way,"The AV wasn't yielding enough to a vehicle merging and allowing enough gap for a confortable merge. As a result, Driver safely disengaged and resumed manual control."
+2023-10,1N4AZ1CP9KC308252,NO,YES,Test Driver,Express Way,"The AV wasn't yielding enough to a vehicle merging and allowing enough gap for a confortable merge. As a result, Driver safely disengaged and resumed manual control."
+2023-10,1N4AZ1CP9KC308252,NO,YES,Test Driver,Express Way,"The AV wasn't yielding enough to a vehicle merging and allowing enough gap for a confortable merge. As a result, Driver safely disengaged and resumed manual control."

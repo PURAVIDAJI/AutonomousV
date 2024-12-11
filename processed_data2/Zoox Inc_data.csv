@@ -1,0 +1,7 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2023-02,~8312,No,Yes,Test Driver,Street,Prediction discrepancy. Late and illegal cut-in from other vehicle from adjacent lane.
+2023-03,~9086,No,Yes,Test Driver,Street,Prediction discrepancy. Adjacent vehicle made illegal maneuver from left turn only lane.
+2023-03,~8948,No,Yes,Test Driver,Street,Prediction discrepancy. Adjacent vehicle made illegal maneuver from left turn only lane.
+2023-07,~2698,No,Yes,Test Driver,Street,Prediction discrepancy. Late cut-in from other vehicle from adjacent lane.

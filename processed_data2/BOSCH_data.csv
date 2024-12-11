@@ -1,0 +1,317 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+Unknown,WDD2221591A470147,No,Yes,AV System,Highway,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470147,No,Yes,Test Driver,Highway,Driver disengaged with steering input. Driver took over for unexpected swerving due to temporary delocalization.
+Unknown,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking due to false positive collision prediction.
+Unknown,WDD2221591A470147,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for hesitant driving due to various unstable object detections.
+Unknown,WDD2221591A470147,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over for unstable braking and swerving around articulated bus.
+Unknown,WDD2221591A470796,No,Yes,AV System,Highway,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Highway,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Recording module failed unexpectedly.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for improper yellow light handling.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for incomplete lane change at a red light.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Fusion Dynamic World module timeout.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle chose improper position to yield for pedestrian in crosswalk.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,"Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for improper braking during left turn, improper yielding to adjacent vehicle making right turn."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for vehicle cutting in.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was getting stuck looking for a lane change gap.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate braking to find lane change gap.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to failure to yield to pedestrian at crosswalk.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over due to jerky steering while entering left turn lane.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to overly slow right turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,"Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for other vehicle merging onto highway did not yield to us, disengaged to make space."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior updater module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for traffic light turning yellow with unclear ego vehicle intent.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to failure to yield to oncoming vehicle during unprotected left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,The system disengaged because the driver seat belt not being properly fastened.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior updater module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate slowdown after lane change approaching green light.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate yield point for pedestrians near crosswalk.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over due to wide right turn into parking lot with a following vehicle.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over during lane change due to tailgating vehicle approaching quickly behind.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over during split into turning lane because tailgating vehicle was too close.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Accidental takeover during lane change.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to failure to yield to oncoming vehicle during unprotected left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate braking for lead vehicle turning right out of our lane.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle failed to initiate and complete a lane change in the allotted space.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to overly cautious braking approaching lane merge.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module timeout.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module timeout.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module timeout.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to sudden braking after a left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to unstable speed profile while trying to find lane change gap.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for a failure to lane change.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Fusion Traffic Regulation module timeout.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield to pedestrian at a crosswalk.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to overly cautious braking approaching lane merge.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,An issue with motion control system caused the system to disengage.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle creeped forward at red light behind vehicle.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to other vehicle driving the wrong way in our lane.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over during slow unprotected left turn for vehicle oncoming.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sudden braking in intersection.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sudden slowdown approaching crosswalk with vehicle tailing close behind.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for jerky/wobbly steering.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to fallback trajectory error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle attempting lane change without enough space.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle failed to initiate and complete a lane change in the allotted space.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to failure to yield to oncoming vehicle during unprotected left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to unexpected braking in intersection.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to ego vehicle getting stuck after yielding to pedestrian in sidewalk.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to vehicle creeping forward at red light.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to ego vehicle initiating a lane change slowly approaching an intersection.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning behavior provider module timeout.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for overly slow approach to a stop sign.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was stuck at green light.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning behavior provider module timeout.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for inappropriate braking on highway.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to ego vehicle planning inappropriate lane change.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle failing to yield to oncoming traffic during left turn.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle slowing down approaching green light.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470796,No,Yes,AV System,Highway,Localization module detected a localizer incident.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning Reference Line Searcher module timeout.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning Reference Line Searcher module timeout.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning Reference Line Searcher module timeout.
+Unknown,WDD2221591A470796,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Highway,Driver disengaged with steering input. Driver took over for other vehicle encroaching in our lane.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning Reference Line Searcher module timeout.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected slowdown approaching intersection.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle failing to yield to oncoming traffic during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle unexpectedly slowing down approaching crosswalk with tailing vehicle close behind.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle failing to yield to oncoming traffic during left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to braking caused by other car encroaching in our lane.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle failing to yield to oncoming traffic during left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for inappropriate braking near parked car.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle got stuck at stop sign.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because adjacent vehicle was merging unsafely into our lane.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module timeout.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,"Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for slow lane change, getting too close to other vehicle."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle unexpectedly slowing down approaching crosswalk with tailing vehicle close behind.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle unexpectedly slowing down approaching crosswalk with tailing vehicle close behind.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking on highway.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle approaching too quickly to a right turn with pedestrians in crosswalk.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected swerving and braking on highway offramp.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over to prevent inappropriate lane change from cutting off other driver.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle unexpectedly slowing down approaching crosswalk with tailing vehicle close behind.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking driving in-lane.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over in response to fallback trajectory error causing braking and veering to the left.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over in response to sudden braking in dense traffic.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sudden braking after a lane change.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unstable acceleration profile over train tracks.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected frequent braking approaching cyclist.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for slow approach to highway onramp with tailgating vehicle behind us.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for braking on highway in response to vehicles travelling in above overpass.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for some unexpected braking during a left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for parked car on right side suddenly opening driver-side door.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over of unexpected braking during lane split into turn lane.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to unexpected short green light cycle.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle unexpectedly slowing down approaching crosswalk with tailing vehicle close behind.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Vision lost connection to camera.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to creeping forward at a red light.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sluggish speed while searching for lane change gap.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking due to fallback trajectory error state.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Front centre wide angle camera is blocked.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Front centre wide angle camera is blocked.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over accidentally.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to unexpected swerve in response to driver in oncoming lanes travelling straight through a left turn lane.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Front centre wide angle camera is blocked.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for failure to slow appropriately during lane change approaching a red light.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for overly cautious braking approaching a lane merge.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for proceeding too slowly through left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Front centre wide angle camera is blocked.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over for improper lane change attempt without appropriate space.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was not proceeding at a green light.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was proceeding slowly through a left turn.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield at a required yield.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield to a pedestrian at a left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over for insufficient nudging around a stopped vehicle.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over to yield to pedestrians at a crosswalk and give more space.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for a slow approach into a highway onramp with a vehicle approaching quickly behind us.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver braking for a late reaction to a yellow light.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield at a required yield.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Recording module incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Recording module incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Vision lost connection to camera.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Recording module incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Fusion Grid World module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over because ego vehicle was turning right into the far lane instead of the near lane.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield at a required yield.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over accidentally.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for improper yielding at a crosswalk with approaching pedestrians.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Fusion Dynamic World reported a Sensor Fusion relevant incident.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Fusion Dynamic World reported a Sensor Fusion relevant incident.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Fusion Grid World module state error.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield at a required yield.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Highway,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for animal in the roadway.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield to a car turning left at a 4-way stop.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield at a required yield.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Highway,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for late braking for a yellow light.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for pedestrians suddenly entering the roadway.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle was not leaving sufficient space around other car during lane change.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle was getting too close to the lead vehicle.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle failed to initiate and complete a lane change in the allotted space.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,An issue with motion control system caused the system to disengage.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over because ego vehicle was getting too close to parked cars on the right.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was slowing down too much to find a lane change gap.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle was approaching red light too fast after completing a lane change.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because of braking behavior immediately after engaging.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over because ego vehicle suddenly made an inappropriate lane change to a lane we did not need to be in.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for braking and rough trajectory during lane change.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over because ego vehicle suddenly made an inappropriate lane change to a lane we did not need to be in.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over because ego vehicle went into a fallback trajectory state immediately after engaging.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over because vehicle failed to slow and yield at a required yield.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Freeway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because of unstable planned trajectory availability.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for inappropriate lane change planned too close to lead vehicle and too close to intersection.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Driver disengaged with steering input. Driver took over for drifting behavior due to poor localization.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking during left turn.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Fusion Grid World module state error.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over because ego vehicle kept attempting to pull over and queue behind parked cars.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for braking and slow driving through right turn.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle creeping into 4-way stop intersection while yielding to pedestrians.
+Unknown,WDD2221591A470796,No,Yes,AV System,Highway,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle failed to initiate and complete a lane change in the allotted space.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Highway,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle slowed down too quickly in an exit lane.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Fusion Dynamic World reported a Sensor Fusion relevant incident.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Highway,Driver disengaged with steering input. Driver took over for drifting behavior due to poor localization.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Planning behavior provider module state error.
+Unknown,WDD2221591A470796,No,Yes,Test Driver,Street,Driver disengaged with steering input. Driver took over for wobbly pathing while driving straight in-lane.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470497,No,Yes,Test Driver,Street,Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because other car cut into our lane during a left turn.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Unknown error that caused the system to disengage: [29.14]Pedestrian detection MRCFR2 state timeout
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Maps incident detected.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470497,No,Yes,AV System,Highway,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470497,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Localization module detected a localizer incident.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Highway,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,Data that Vision received from the Driving State Module is too old.
+Unknown,WDD2221591A470796,No,Yes,AV System,Street,"Planning trajectory is in timeout, cycle time broken."

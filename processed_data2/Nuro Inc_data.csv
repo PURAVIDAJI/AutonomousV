@@ -1,0 +1,50 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+Unknown,JTDKN3DPXF3070616,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with cross traffic
+Unknown,JTDKN3DP3C3020295,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with cross traffic
+Unknown,JTDKN3DP2C3011362,No,Yes,Test Driver,Street,Planning Logic: Incorrect prediction leads to inadequate yield to cyclist in crosswalk 
+Unknown,JTDKAMFU8N3171530,No,Yes,Test Driver,Street,Planning Logic: Incorrect prediction leads to inadequate yield to cyclist running stop sign
+Unknown,JTDKN3DP8C3004514,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with tailgating agent
+Unknown,JTDKN3DP0C3001431,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with cross traffic
+Unknown,JTDKAMFU5N3171713,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequate yield to lead vehicle
+Unknown,JTDKAMFU5N3171713,No,Yes,Test Driver,Street,Object Perception: Incorrect perception of bus leads to nudging into adjacent lane with tailgating agent
+Unknown,JTDKAMFU2N3171877,No,Yes,Test Driver,Street,Planning Logic: Inccorect planner trajectory fails to adequate yield to lead vehicle
+Unknown,JTDKN3DP0C3001431,No,Yes,Test Driver,Street,Planning Logic: Incorrect prediction leads to inadequate yield to pedestrian in crosswalk 
+Unknown,JTDKN3DP8C3004514,No,Yes,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for vehicle reversing from driveway
+Unknown,JTDKAMFUXN3171593,No,Yes,Test Driver,Street,Object Perception: Incorrect perception of false object in road leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU2N3182359,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to lead vehicle
+Unknown,JTDKAMFU4N3182332,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging
+Unknown,JTDKAMFU5N3171601,No,Yes,Test Driver,Street,Object Perception: Incorrect perception of traffic light leads to inadequate yield to cross traffic
+Unknown,JTDKAMFU3N3171676,No,Yes,Test Driver,Street,Planning Logic: Incorrect prediction leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU8N3182236,No,Yes,Test Driver,Street,Object Perception: Incorrect perception of railroad crossing leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU7N3164231,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to lead vehicle
+Unknown,JTDKAMFU3N3171676,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to lead vehicle
+Unknown,JTDKAMFU4N3171864,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to pedestrian on scooter in bike lane
+Unknown,JTDKAMFU0N3164734,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to adjacent vehicle overtaking Nuro vehicle while merging
+Unknown,JTDKAMFU2N3171877,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU3N3171676,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU4N3182332,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to lead vehicle
+Unknown,JTDKAMFU4N3182332,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately slow for lead vehicle
+Unknown,JTDKAMFU3N3171757,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately slow for lead vehicle
+Unknown,JTDKAMFU3N3171757,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately slow for lead vehicle
+Unknown,JTDKAMFU4N3182332,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately slow for lead vehicle
+Unknown,JTDKAMFU4N3182332,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately slow for lead vehicle
+Unknown,JTDKAMFU9N3171729,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging due to construction
+Unknown,JTDKAMFUXN3164594,No,Yes,Test Driver,Street,Router: Incorrect router transition leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU4N3182136,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with tailgating cyclist 
+Unknown,JTDKAMFU9N3171729,No,Yes,Test Driver,Street,Object Perception: Incorrect perception of traffic light leads to inadequate yield to cross traffic
+Unknown,JTDKAMFUXN3171562,No,Yes,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for oncoming vehicle
+Unknown,JTDKAMFU2N3182393,No,Yes,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for oncoming while making a left turn
+Unknown,JTDKAMFU4N3171749,No,Yes,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for cross traffic
+Unknown,JTDKAMFUXN3164594,No,Yes,Test Driver,Street,Router: Incorrect router transition leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU4N3182136,No,Yes,Test Driver,Street,Object Perception: Incorrect perception of debris in road leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFUXN3164594,No,Yes,Test Driver,Street,Planning Logic: Incorrect behavior leads to unwanted braking with cross traffic
+Unknown,JTDKAMFU7N3164231,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to yield for cross traffic
+Unknown,JTDKAMFUXN3164594,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to yield for cross traffic violating right of way
+Unknown,JTDKAMFU7N3164231,No,Yes,Test Driver,Street,Object Perception: Late perception of oncoming turning agent cuts off Nuro vehicle leading to inadequate yield
+Unknown,JTDKAMFU9N3171729,No,Yes,Test Driver,Street,Planning Logic: Incorrect prediction leads to unwanted braking with tailgating agent
+Unknown,JTDKAMFU7N3164231,No,Yes,Test Driver,Street,Planning Logic: Incorrect planner trajectory fails to adequately yield to turning cross traffic agent
+Unknown,JTDKAMFU4N3171864,No,Yes,Test Driver,Street,Localization: Poor localization led to driving onto curb
+Unknown,JTDKAMFUXN3164594,No,Yes,Test Driver,Street,Planning Logic: Planner trajectory inadequately yields for oncoming vehicle
+Unknown,JTDKAMFUXN3182366,No,Yes,Test Driver,Street,Object Perception: Incorrect perception of traffic light leads to inadequate yield to cross traffic

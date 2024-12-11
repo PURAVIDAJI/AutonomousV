@@ -1,0 +1,5 @@
+Month,Car,"VEHICLE IS CAPABLE OF OPERATING WITHOUT A DRIVER
+(Yes or No)","DRIVER PRESENT
+(Yes or No)",TypeOfTrigger,Location,Cause
+2022-12,NM0LS7F25K1413020,No,Yes,Test Driver,Street,Hardware discrepancy or system fault; On city road in light traffic with clear sky during day
+2023-01,NM0LS7F25K1413020,No,Yes,AV System,Street,Hardware discrepancy or system fault; On city road in light traffic with clear sky during day
