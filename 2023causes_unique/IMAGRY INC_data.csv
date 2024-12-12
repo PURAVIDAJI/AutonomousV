@@ -1,11 +1,9 @@
 ,Count
+ incorrect behaviour prediction of another traffic participant,10
 "The system incorrectly perceived an element in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement",40
-Inaccurate lane-keeping due to inaccurate path planning,30
-Inaccurate lane-keeping due to incorrectly perceived element in the surrounding environment of the vehicle,8
-Turning close to curb due to inaccurate controller or path planning,1
 System planned inaccurate trajectory to overtake a static object that was partialy blocking the lane,7
-Inaccurate lane-switching due to inaccurate path planning,8
-"System planned inaccurate trajectory to overtake another vehicle, due to inaccurate path planning",3
-Late deceleration due to incorrect behaviour prediction of another traffic participant,10
-Inaccurate lane-keeping due to object detection discrepancy,7
+ incorrectly perceived element in the surrounding environment of the vehicle,8
+ inaccurate controller or path planning,1
+ object detection discrepancy,7
+ inaccurate path planning,41
 Precautionary disengagement by Safety Driver upon judging that vehicle was too close to road boundary,10
