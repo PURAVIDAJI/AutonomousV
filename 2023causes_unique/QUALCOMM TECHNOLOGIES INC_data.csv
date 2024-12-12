@@ -1,13 +1,13 @@
-Count
-42
-6
-45
-2
-68
-7
-5
-4
-3
-1
-13
-1
+,Count
+Driver disengagement due to planning discrepancy causing undesired braking,4
+Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory,68
+Driver disengagement due to safety monitor notification of sensor input delay,45
+Driver disengagement due to safety monitor notification of system load,1
+Driver disengagement due to planning discrepancy in yielding to merging vehicle,7
+Driver disengagement due to safety monitor notification of buffer congestion,2
+Driver disengagement due to safety monitor notification of positioning error,42
+Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed,13
+Driver disengagement due to planning discrepancy in yielding to vehicle cut-in,3
+Driver disengagement due to conditions exceeding ODD,6
+Driver precautionary disengagement due to aggressive cut-in by other vehicle,5
+Driver disengagement to perform manual lane change,1

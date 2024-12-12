@@ -1,17 +1,17 @@
-Count
-3
-3
-4
-2
-1
-2
-7
-1
-1
-1
-5
-3
-4
-1
-3
-1
+,Count
+Safety Driver disengaged due to inappropriate braking proposal.,1
+Safety Driver disengaged due to vehicle not giving enough space for cross traffic.,1
+Safety Driver disengaged due to cut-in issue.,3
+Safety Driver disengaged to proceed through green traffic signal.,3
+Safety Driver disengaged to re-center vehicle in lane.,5
+Safety Driver disengaged due to issue with lane change maneuver.,2
+Safety Driver disengaged because vehicle was mishandling a traffic light.,7
+Safety Driver disengaged to manually drive past pedestrians near the road.,1
+"Safety Driver disengaged due to inappropriate braking, caused by perception issue.",3
+Safety Driver disengaged near crosswalk due to overly conservative vehicle behavior.,4
+Safety Driver disengaged due to overly harsh braking.,2
+Safety Driver disengaged to reduce speed.,3
+Safety Driver disengaged upon judging that vehicle was too close to other road user or obstacle.,1
+"Safety Driver disengaged due to inappropriate braking proposal, caused by perception issue.",1
+Safety Driver disengaged due to inappropriate steering.,1
+Safety Driver disengaged upon judging that vehicle was too close to road boundary.,4

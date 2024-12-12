@@ -1,23 +1,23 @@
-Count
-3
-1
-2
-2
-1
-1
-1
-1
-1
-1
-1
-5
-5
-1
-1
-1
-3
-9
-3
-1
-2
-1
+,Count
+A system software failure in the planner module while approaching an intersection on surface street in cloudy weather.,1
+System software failure in the perception module while proceeding straight on an onramp with low traffic on highway in cloudy weather.,1
+"System software failure in the perception module while proceeding straight with medium traffic on highway, in cloudy weather.",1
+System software failure in the planning module while entering a cloverleaf ramp on the highway due to a policy disengagement zone in clear weather. ,5
+System software failure in the perception module while proceeding straight on an onramp with low traffic on highway in cloudy weather. Hazards activated prior to software disengagement.,1
+System software failure in the perception module while proceeding straight at low speed with heavy traffic on highway in cloudy weather.,1
+System software failure in the perception module while proceeding straight with medium traffic on highway in cloudy weather.,5
+System software failure in the perception module while proceeding straight with no traffic on highway in clear weather.,1
+System software failure in the planning module while proceeding straight with low traffic on highway in cloudy weather.,2
+System software failure in the planning module when making a left turn at an intersection in clear weather. ,1
+System software failure in the perception module while proceeding straight at low speed on a highway offramp in clear weather.,1
+System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather.,9
+System software failure in the perception module while stopped at a stoplight at an intersection with an adjacent vehicle in surface street in cloudy weather.,1
+A system software failure in the planner module during lane change on surface street in clear weather likely due to the curvature of the mapped lane. ,1
+System software failure in the perception module while entering a cloverleaf ramp on the highway in clear weather. ,2
+System software failure in the perception module while proceeding straight with medium traffic on highway in clear weather.,2
+System software failure in the planning module when approaching an onramp onto the highway in clear weather.,1
+System software failure in the perception module while proceeding straight with low traffic on highway in clear weather.,3
+System software failure in the mapping module when detecting an incorrectly mapped traffic light at an intersection in clear weather. ,3
+A system software failure in the planner module during lane change on surface street approaching an intersection in cloudy weather likely due to the curvature of the mapped lane. ,3
+System software failure in the perception module while proceeding straight at low speed with medium traffic on highway in clear weather.,1
+System software failure in the perception module while proceeding straight with low traffic on highway in cloudy weather. Disengagement occurred when AV attempted to lane change.,1

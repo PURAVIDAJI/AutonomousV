@@ -1,4 +1,4 @@
-Count
-1
-1
-1
+,Count
+"Manual disengagement as the AV had hardware irregularity. The HMI (human machine interface) of the AV system demonstrated abnormal behavior, causing the safety operator manually disengaged the AV.",1
+Manual disengagement after a scooter made contact with the AV.,1
+"The AV system exited autonomous mode due to hardware irregularity. While the car crossed a bumpy intersection, the AV system detected abnormal car status data, causing it to exit autonomous mode.",1

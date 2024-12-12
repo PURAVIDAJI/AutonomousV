@@ -1,31 +1,31 @@
-Count
-3
-1
-2
-1
-1
-1
-1
-1
-2
-1
-1
-2
-3
-1
-1
-1
-1
-4
-1
-1
-1
-1
-1
-1
-4
-5
-1
-1
-1
-1
+,Count
+Object Perception: Incorrect perception of bus leads to nudging into adjacent lane with tailgating agent,1
+Planning Logic: Incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging due to construction,1
+Planning Logic: Planner trajectory inadequately yields for cross traffic,1
+Planning Logic: Incorrect planner trajectory fails to yield for cross traffic,1
+Planning Logic: Incorrect prediction leads to unwanted braking with tailgating agent,2
+Planning Logic: Incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging,1
+Object Perception: Incorrect perception of debris in road leads to unwanted braking with tailgating agent,1
+Localization: Poor localization led to driving onto curb,1
+Planning Logic: Incorrect behavior leads to unwanted braking with cross traffic,4
+Planning Logic: Incorrect behavior leads to unwanted braking with tailgating cyclist ,1
+Planning Logic: Incorrect planner trajectory fails to adequately yield to pedestrian on scooter in bike lane,1
+Planning Logic: Incorrect planner trajectory fails to adequately slow for lead vehicle,5
+Object Perception: Incorrect perception of railroad crossing leads to unwanted braking with tailgating agent,1
+Planning Logic: Incorrect prediction leads to inadequate yield to cyclist in crosswalk ,1
+Planning Logic: Incorrect planner trajectory fails to adequately yield to adjacent vehicle overtaking Nuro vehicle while merging,1
+Planning Logic: Planner trajectory inadequately yields for vehicle reversing from driveway,1
+Planning Logic: Incorrect prediction leads to inadequate yield to cyclist running stop sign,1
+Object Perception: Late perception of oncoming turning agent cuts off Nuro vehicle leading to inadequate yield,1
+Object Perception: Incorrect perception of false object in road leads to unwanted braking with tailgating agent,1
+Router: Incorrect router transition leads to unwanted braking with tailgating agent,2
+Planning Logic: Incorrect planner trajectory fails to adequately yield to lead vehicle,4
+Planning Logic: Planner trajectory inadequately yields for oncoming vehicle,2
+Planning Logic: Incorrect planner trajectory fails to yield for cross traffic violating right of way,1
+Planning Logic: Inccorect planner trajectory fails to adequate yield to lead vehicle,1
+Object Perception: Incorrect perception of traffic light leads to inadequate yield to cross traffic,3
+Planning Logic: Incorrect planner trajectory fails to adequate yield to lead vehicle,1
+Planning Logic: Planner trajectory inadequately yields for oncoming while making a left turn,1
+Planning Logic: Incorrect behavior leads to unwanted braking with tailgating agent,3
+Planning Logic: Incorrect planner trajectory fails to adequately yield to turning cross traffic agent,1
+Planning Logic: Incorrect prediction leads to inadequate yield to pedestrian in crosswalk ,1

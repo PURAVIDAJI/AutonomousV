@@ -1,17 +1,17 @@
-Count
-19
-33
-32
-8
-11
-1
-47
-326
-20
-31
-43
-9
-67
-25
-15
-21
+,Count
+"Safety Driver disengaged autonomous mode due derbis on the road.  Root cause: precaution. Conditions: Non-inclement weather, dry roads, no other factors involved.",8
+"Safety Driver disengaged autonomous mode due to issue with catching up maneuver because of insufficient distance keeping from other vehicles. Root cause: object detection or other issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",43
+"Safety Driver disengaged autonomous mode due to issue with the SW giving back control to the driver because of a minor system error. Root cause: SW self diagnosed something to be not most ideal. Conditions: Non-inclement weather, dry roads, no other factors involved.",1
+"Safety Driver disengaged autonomous mode as a precaution for keeping distance from vehicle parked on side. Root cause: precaution. Conditions: Non-inclement weather, dry roads, no other factors involved.",15
+"Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road/lane boundary. Root cause: object, lane detection or other issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",326
+"Safety Driver disengaged autonomous mode due to issue with exit/merge maneuver because of insufficient distance keeping from other vehicles. Root cause: object detection or other issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",21
+"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue.  Root cause: trajectory calculation issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",25
+"Safety Driver disengaged autonomous mode due to issue with the SW unable to perform the lane change manuever safely. Root cause: lane detection or other issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",31
+"Safety Driver disengaged autonomous mode due to issue with cut in maneuver because of insufficient distance keeping from other vehicles. Root cause: object detection or other issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",19
+"Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road/lane boundary during an exit/merge manuever. Root cause: lane detection or other issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",20
+"Safety Driver disengaged autonomous mode to ensure no stopping at traffic light or stop line. Root cause: inaccurate traffic light or stop line detection. Conditions: Non-inclement weather, dry roads, no other factors involved.",32
+"Safety Driver disengaged autonomous mode due to issue with the test vehicle could not perform the lane change into the exit lane or merge to highway and could not follow the planned route. Root cause: traffic situation. Conditions: Non-inclement weather, dry roads, no other factors involved.",9
+"Safety Driver disengaged autonomous mode to perform a steering maneuver to correct the trajectory of the vehicle. Root cause: trajectory calculation issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",47
+"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by falsely percepted stop line issue.  Root cause: object detection issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",11
+"Safety Driver disengaged autonomous mode to ensure stopping at traffic light or stop line. Root cause: inaccurate traffic light or stop line detection. Conditions: Non-inclement weather, dry roads, no other factors involved.",67
+"Safety Driver disengaged autonomous mode due to issue with lane change maneuver because of insufficient distance keeping from other vehicles. Root cause: object detection or other issue. Conditions: Non-inclement weather, dry roads, no other factors involved.",33

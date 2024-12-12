@@ -1,138 +1,138 @@
-Count
-1
-1
-3
-1
-1
-1
-1
-1
-1
-4
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-27
-1
-5
-1
-2
-1
-1
-1
-4
-1
-1
-2
-13
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-4
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-11
-1
-1
-1
-1
-1
-1
-1
-1
-3
-1
-11
-1
-1
-1
-1
-1
-1
-1
-1
-31
-10
-1
-1
-2
-1
-3
-2
-1
-6
-1
-1
-2
-41
-1
-1
-1
-1
-5
-1
-1
-1
-1
-1
-4
-1
-1
-1
-1
-1
-1
-1
-2
+,Count
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for jerky/wobbly steering.,1
+Driver disengaged with steering input. Driver took over during split into turning lane because tailgating vehicle was too close.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over in response to sudden braking in dense traffic.,1
+Driver disengaged with steering input. Driver took over for insufficient nudging around a stopped vehicle.,1
+Fusion Grid World module state error.,3
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle got stuck at stop sign.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for inappropriate braking near parked car.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for traffic light turning yellow with unclear ego vehicle intent.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to unexpected swerve in response to driver in oncoming lanes travelling straight through a left turn lane.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over in response to fallback trajectory error causing braking and veering to the left.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for improper yielding to a pedestrian near the roadway.,10
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield to a car turning left at a 4-way stop.,1
+Fusion Dynamic World reported a Sensor Fusion relevant incident.,3
+Front centre wide angle camera is blocked.,4
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking driving in-lane.,1
+Driver disengaged with steering input. Driver took over for unstable braking and swerving around articulated bus.,1
+Planning Reference Line Searcher module timeout.,4
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking due to fallback trajectory error state.,1
+"Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for other vehicle merging onto highway did not yield to us, disengaged to make space.",1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to unstable speed profile while trying to find lane change gap.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for overly cautious braking approaching a lane merge.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle was not leaving sufficient space around other car during lane change.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle failed to initiate and complete a lane change in the allotted space.,4
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to improper yielding to a pedestrian near roadway during left turn.,13
+Fusion Traffic Regulation module timeout.,1
+Driver disengaged with steering input. Driver took over due to wide right turn into parking lot with a following vehicle.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to failure to yield to oncoming vehicle during unprotected left turn.,3
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to ego vehicle planning inappropriate lane change.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because of braking behavior immediately after engaging.,1
+Driver disengaged with steering input. Driver took over because ego vehicle went into a fallback trajectory state immediately after engaging.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle was getting too close to the lead vehicle.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle creeped forward at red light behind vehicle.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because adjacent vehicle was merging unsafely into our lane.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for improper yielding at a crosswalk with approaching pedestrians.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for animal in the roadway.,1
+Localization module detected a localizer incident.,27
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle slowed down too quickly in an exit lane.,1
+Planning behavior provider module timeout.,6
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for late braking for a yellow light.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected slowdown approaching intersection.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over of unexpected braking during lane split into turn lane.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield at a required yield.,5
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over to yield to pedestrians at a crosswalk and give more space.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for inappropriate braking on highway.,1
+Recording module incident detected.,3
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle failing to yield to oncoming traffic during left turn.,4
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for braking and rough trajectory during lane change.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to fallback trajectory error.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for parked car on right side suddenly opening driver-side door.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking on highway.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for hesitant driving due to various unstable object detections.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over accidentally.,2
+Brake pedal pressed to reduce the velocity of the vehicle. Driver braking for a late reaction to a yellow light.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for inappropriate lane change planned too close to lead vehicle and too close to intersection.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Accidental takeover during lane change.,1
+Driver disengaged with steering input. Driver took over for improper lane change attempt without appropriate space.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to ego vehicle getting stuck after yielding to pedestrian in sidewalk.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle creeping into 4-way stop intersection while yielding to pedestrians.,1
+Driver disengaged with steering input. Driver took over because ego vehicle was turning right into the far lane instead of the near lane.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sudden slowdown approaching crosswalk with vehicle tailing close behind.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to overly slow right turn.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking during left turn.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for improper yellow light handling.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle was approaching red light too fast after completing a lane change.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over to prevent inappropriate lane change from cutting off other driver.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to sudden braking after a left turn.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield to pedestrian at a crosswalk.,1
+"Planning trajectory is in timeout, cycle time broken.",41
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sluggish speed while searching for lane change gap.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was slowing down too much to find a lane change gap.,1
+Unknown error that caused the system to disengage: [29.14]Pedestrian detection MRCFR2 state timeout,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over during lane change due to tailgating vehicle approaching quickly behind.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for braking on highway in response to vehicles travelling in above overpass.,1
+"Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for improper braking during left turn, improper yielding to adjacent vehicle making right turn.",1
+Driver disengaged with steering input. Driver took over for other vehicle encroaching in our lane.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to unexpected braking in intersection.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for overly slow approach to a stop sign.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to unexpected short green light cycle.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate braking for lead vehicle turning right out of our lane.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for failure to slow appropriately during lane change approaching a red light.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for ego vehicle approaching too quickly to a right turn with pedestrians in crosswalk.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for pedestrians suddenly entering the roadway.,1
+Recording module failed unexpectedly.,1
+The system disengaged because the driver seat belt not being properly fastened.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for a failure to yield to a pedestrian at a left turn.,1
+Planning behavior updater module state error.,2
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle attempting lane change without enough space.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected braking due to false positive collision prediction.,1
+Maps incident detected.,11
+Driver disengaged with steering input. Driver took over because ego vehicle suddenly made an inappropriate lane change to a lane we did not need to be in.,2
+Driver disengaged with steering input. Driver took over due to jerky steering while entering left turn lane.,1
+Driver disengaged with steering input. Driver took over because ego vehicle kept attempting to pull over and queue behind parked cars.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sudden braking after a lane change.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected swerving and braking on highway offramp.,1
+"Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for slow lane change, getting too close to other vehicle.",1
+Driver disengaged with steering input. Driver took over because vehicle failed to slow and yield at a required yield.,1
+Driver disengaged with steering input. Driver took over because ego vehicle was getting too close to parked cars on the right.,1
+Driver disengaged with steering input. Driver took over for wobbly pathing while driving straight in-lane.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to overly cautious braking approaching lane merge.,2
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for proceeding too slowly through left turn.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for braking and slow driving through right turn.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was proceeding slowly through a left turn.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to failure to yield to pedestrian at crosswalk.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for incomplete lane change at a red light.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was stuck at green light.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate yield point for pedestrians near crosswalk.,1
+Vision lost connection to camera.,2
+Planning behavior provider module state error.,31
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was getting stuck looking for a lane change gap.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate braking to find lane change gap.,1
+An issue with motion control system caused the system to disengage.,2
+Driver disengaged with steering input. Driver took over due to improper yielding to a pedestrian near roadway during left turn.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for vehicle cutting in.,1
+Driver disengaged with steering input. Driver took over for drifting behavior due to poor localization.,2
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for a slow approach into a highway onramp with a vehicle approaching quickly behind us.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unexpected frequent braking approaching cyclist.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to creeping forward at a red light.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for a failure to lane change.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to vehicle creeping forward at red light.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over during slow unprotected left turn for vehicle oncoming.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because other car cut into our lane during a left turn.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to inappropriate slowdown after lane change approaching green light.,1
+Driver disengaged with steering input. Driver took over for unexpected swerving due to temporary delocalization.,1
+Data that Vision received from the Driving State Module is too old.,11
+Fusion Dynamic World module timeout.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to other vehicle driving the wrong way in our lane.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for slow approach to highway onramp with tailgating vehicle behind us.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because of unstable planned trajectory availability.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over because ego vehicle was not proceeding at a green light.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for sudden braking in intersection.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for unstable acceleration profile over train tracks.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over because ego vehicle chose improper position to yield for pedestrian in crosswalk.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over due to ego vehicle initiating a lane change slowly approaching an intersection.,1
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over for some unexpected braking during a left turn.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle slowing down approaching green light.,1
+Accelerator pedal pressed to increase velocity of the vehicle. Driver took over for ego vehicle unexpectedly slowing down approaching crosswalk with tailing vehicle close behind.,5
+Brake pedal pressed to reduce the velocity of the vehicle. Driver took over due to braking caused by other car encroaching in our lane.,1

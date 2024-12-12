@@ -1,13 +1,13 @@
-Count
-6
-1
-4
-5
-8
-24
-19
-433
-1
-3
-86
-3
+,Count
+Prediction Discrepancy: Disengaged due to inconsistent actor vehicle predictions at an intersection while Autonomous Vehicle (AV) is turning right,8
+Planning Discrepancy: Disengaged due to insufficient lateral clearance to the curb while performing a lane change,5
+Planning Discrepancy: Disengaged due to planning trajectory scoring issue leading to insufficient braking for actor vehicle in front of the Autonomous Vehicle (AV),4
+Precautionary Takeover: Disengaged due to a vehicle platform software issue related to the sensor data processing pipelines,19
+Precautionary Takeover: Disengaged due to a vehicle platform software issue within the Autonomous Vehicle's (AV) controller interface sub-system,433
+Precautionary Takeover: Disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system,86
+Perception Discrepancy: Disengaged for lack of consistently accurate traffic light state detection,1
+Prediction Discrepancy: Disengaged due to inconsistent prediction trajectory for a bus merging in front of the Autonomous Vehicle (AV) vehicle,3
+Perception Discrepancy: Disengaged due to inconsistent traffic light state detection,3
+Prediction Discrepancy: Disengaged due to inaccurate oncoming traffic predictions as the Autonomous Vehicle (AV) is turning left at an intersection,6
+Perception Discrepancy: Disengaged due to inaccurate vehicle size detection,1
+Localization Takeover: Disengaged due to a temporary localization sub-system drop,24

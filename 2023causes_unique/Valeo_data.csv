@@ -1,12 +1,12 @@
-Count
-6
-1
-3
-1
-2
-1
-1
-2
-1
-2
-1
+,Count
+"Weather(Sunny), Daylight: Safety Decision - 4 way Stop, Car started when it was his turn, impatient driver forced his way (Safety Takeover)",1
+"Weather(Sunny), Daylight: Computing issue - AV didn't engage at 4 way stop - Car stayed still when it was its turn to go for unknown reason",1
+"Weather(Sunny), Daylight: Safety Decision - Car coming to close to AV, from the adjacent lane (Safety Takeover)",1
+"Weather(Sunny), Daylight: Perception Issue - AV too close to front vehicle - Distance Calculation error",2
+"Weather(Sunny), Daylight: Safety Decision - Car Crash in front of the Vehicle in its lane, (safety takeover)",1
+"Weather(Sunny), Daylight: ODD - Car double parked on our lane - Test car not allowed to go over the double yellow lane marking",6
+"Weather(Sunny), Daylight: Safety Decision - Pedestrian on the road, not on a defined crosswalk (Safety takeover)",2
+"Weather(Sunny), Daylight: Safety Decision - 4 way Stop, Car started when it was its turn, impatient driver forced his way (Safety Takeover)",1
+"Weather(Sunny), Daylight: Perception issue - Green light not detected after switch from red, car stood still, camera perception issue",2
+"Weather(Sunny), Daylight: Computing issue - Software Crash - Localization component stopped working for unknown reasons",1
+"Weather(Sunny), Daylight: Safety Decision - Pedestrian on the road, on a defined crosswalk (Safety takeover)",3
