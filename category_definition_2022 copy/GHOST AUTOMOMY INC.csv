@@ -1,0 +1,17 @@
+Keyword,	Fault Tag,	Failure Category,	Occurrences
+Undesirable lane placement, Driver Intervention, Operational Control, 130
+Undesirable performance, System Disengagement, Performance Degradation, 90
+Lateral movement within lane, Driver Intervention, Operational Control, 80
+Undesirable lane placement, Driver Intervention, Operational Control, 80
+Unexpected braking, Driver Intervention, Braking Issue, 50
+Unexpected road conditions, Driver Intervention, Environmental Impact, 45
+Proximity concern, Driver Intervention, Proximity Concern, 35
+Lateral movement within lane, Driver Intervention, Operational Control, 35
+Unexpected system behavior, Driver Intervention, System Instability, 20
+Unexpected system behavior, Driver Intervention, System Instability, 20
+Lane marker override, Driver Intervention, Boundary Violation, 25
+Lane marker override, Driver Intervention, Boundary Violation, 25
+Unexpected road conditions, Driver Intervention, Environmental Impact, 25
+Undesirable performance, System Disengagement, Performance Degradation, 30
+Unexpected braking, Driver Intervention, Braking Issue, 15
+Proximity concern, Driver Intervention, Proximity Concern, 20

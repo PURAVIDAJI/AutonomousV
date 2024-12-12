@@ -1,0 +1,13 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Object Detection Issue,Object Proximity Error,Perception System,445
+Traffic Situation,Route Execution Failure,Operational Conditions,140
+Lane Detection or Map Issue,Shoulder/Express Lane Error,Mapping System,138
+Navigation/Localization Issue,Route Planning Error,Navigation System,123
+Unnecessary Lane Change,Route Deviation,Planning System,87
+Lane Detection Issue,Lane Management Error,Perception System,83
+Faster Car in Target Lane,Conflict During Lane Change,Traffic Interaction,34
+Software Limitation,Lane Change Cancellation Failure,Control System,33
+Too Aggressive Lane Change,Lane Departure Risk,Control System,26
+Bad Lane Detection in Exit/Merge Lane,Exit/Merge Lane Mismanagement,Perception System,22
+Unintended Braking,Object Misclassification Error,Perception System,19
+Limited Control Actuation,Control System Limitation,Control System,5

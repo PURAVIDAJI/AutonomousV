@@ -1,0 +1,6 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Trajectory too fast and aggressive,Planning System Error,Planning/Trajectory Issue,30
+Steering correction for trajectory,Operator Intervention,Operational Design Domain,6
+Brake to reduce speed,Operator Intervention,Operational Design Domain,5
+Accelerator to increase speed,Operator Intervention,Operational Design Domain,4
+Fusion component error,System Error,Perception/Planning Failure,3

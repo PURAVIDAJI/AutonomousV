@@ -1,0 +1,15 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+System Overload,System Load Issue,System Performance,22
+Input Lag,Sensor Delay Issue,Sensor System,20
+Trajectory Planning Error,Planning Issue,Control System,18
+Merging Yield Failure,Yielding Issue,Control System,15
+Operational Limit Exceeded,ODD Limitation,Operational Design,8
+Localization Error,Positioning Issue,Localization System,8
+Lane Change Failure,Lane Change Issue,Control System,7
+Cut-in Reaction Delay,Reaction Delay,Control System,5
+Speed Planning Error,Speed Planning Issue,Control System,5
+Aggressive Cut-in Interaction,Cut-in Issue,Driving Interaction,5
+Lane Change Plan Disruption,Lane Change Planning Issue,Control System,4
+False Vehicle Detection,Perception Issue,Perception System,3
+Unintended Braking,Braking Issue,Control System,2
+Route Planning Mismatch,Route Planning Issue,Control System,1

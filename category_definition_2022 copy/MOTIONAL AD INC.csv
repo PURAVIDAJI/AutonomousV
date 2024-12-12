@@ -1,0 +1,13 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Controller Interface Issue,Controller Interface Issue,System/Software Failure,55
+Sensor Data Issue,Sensor Data Issue,System/Software Failure,32
+Compute Infrastructure Issue,Compute Infrastructure Issue,System/Software Failure,15
+Inaccurate Lead Vehicle Predictions,Prediction Failure,Perception/Planning Error,7
+Inaccurate Oncoming Traffic Predictions,Prediction Failure,Perception/Planning Error,4
+Trajectory Scoring Issue,Trajectory Planning Error,Planning/System Failure,3
+Insufficient Lateral Clearance,Trajectory Planning Error,Planning/System Failure,2
+Inconsistent Actor Predictions,Prediction Failure,Perception/Planning Error,2
+Inaccurate Reversing Vehicle Tracking,Perception Error,Perception Failure,2
+Motorcycle Detection Issues,Perception Error,Perception Failure,1
+Inconsistent Pedestrian Predictions,Prediction Failure,Perception/Planning Error,1
+Inaccurate Map Representation,Mapping Error,External/Mapping Issue,1
