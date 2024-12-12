@@ -1,6 +1,0 @@
-Keyword,Fault Tag,Failure Category,Occurrences
-Perception system failed to detect an object,Perception Failure,Perception System,105
-Undesirable maneuver of the vehicle,Undesirable Maneuver,Vehicle Behavior,61
-Software performance issue detected,Software Discrepancy,Software Issue,3
-Hardware performance issue detected,Hardware Discrepancy,Hardware Issue,2
-Incorrect behavior prediction of traffic participants,Behavior Prediction Error,Predictive Systems,1

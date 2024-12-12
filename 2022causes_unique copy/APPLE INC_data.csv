@@ -1,0 +1,12 @@
+,Count
+"The ADS incorrectly predicted the behavior of another road user, which resulted in a motion plan requiring disengagement by the Safety Driver.   ",1507
+"The ADS incorrectly perceived an element in the surrounding environment, which resulted in a motion plan requiring disengagement by the Safety Driver.   ",1033
+The ADS initiated a disengagement due to a diagnosed hardware issue.   ,612
+"The ADS generated a motion plan that would have placed the vehicle in an incorrect location on the roadway, requiring the Safety Driver to disengage.   ",759
+"The ADS generated a motion plan that did not meet expectations of providing courtesy to other road users, leading the Safety Driver to disengage.   ",941
+A discrepancy in the onboard map resulted in a motion plan requiring disengagement by the Safety Driver.   ,677
+"The test vehicle was rear-ended by another vehicle, requiring the Safety Driver to disengage the system and safely take control of the vehicle.",1
+"The ADS incorrectly detected the state of a traffic signal, which resulted in a motion plan requiring disengagement by the Safety Driver.   ",182
+"The test vehicle sensor field of view was obstructed, preventing the adequate perception of the surrounding environment and requiring disengagement by the Safety Driver.   ",33
+The ADS initiated a disengagement due to a diagnosed issue with the motion plan.   ,183
+"The ADS developed a motion plan to remain stationary, requiring disengagement by the Safety Driver.   ",54

@@ -1,0 +1,12 @@
+,Count
+Safety Driver disengaged autonomous mode to re-center vehicle in lane. ,1
+Safety Driver disengaged autonomous mode to ensure proper behavior at traffic light.,24
+Safety Driver disengaged autonomous mode upon judging that vehicle was too close to road boundary.,13
+Safety Driver disengaged autonomous mode due to cut-in issue.,5
+Safety Driver disengaged autonomous mode to manually drive past pedestrians near the road.,11
+Safety Driver disengaged autonomous mode due to inappropriate steering.,5
+Safety Driver disengaged autonomous mode due to inappropriate braking proposal.,4
+Safety Driver disengaged autonomous mode due to issue with lane change maneuver.,23
+Safety Driver disengaged autonomous mode to re-center vehicle in lane.,4
+Safety Driver disengaged autonomous mode near crosswalk due to overly conservative vehicle behavior.,16
+"Safety Driver disengaged autonomous mode due to inappropriate braking, caused by perception issue.",6

@@ -1,0 +1,8 @@
+,Count
+"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the the inner radius of a right hand turn. As a result, Driver safely disengaged and resumed manual control.",3
+"The AV didn't yield to vehicle turning left while AV was turning right. As a result, Driver safely disengaged and resumed manual control.",1
+"The AV was initiating a lane change, another vehicle was already on the other lane. As a result, the driver safely disengaged and resumed manual control.",2
+"The AV stopped for a construction zone due to lane blockage. As a result, Driver safely disengaged and resumed manual control.",1
+"The AV wasn't yielding enough to a vehicle merging and allowing enough gap for a confortable merge. As a result, Driver safely disengaged and resumed manual control.",4
+"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the curb. As a result, Driver safely disengaged and resumed manual control.",3
+"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the edge of the lane marking. As a result, Driver safely disengaged and resumed manual control.",3

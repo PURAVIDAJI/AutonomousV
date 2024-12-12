@@ -1,17 +1,13 @@
 Keyword,	Fault Tag,	Failure Category,	Total Occurrences
-Diagnosed hardware issue,	Hardware,	ADS Malfunction,	1091
-Discrepancy in onboard map,	Mapping Error,	Environment Understanding,	747
-Incorrect location on roadway,	Motion Planning,	Path Error,	696
-Incorrect motion plan,	Planning,	Control,	90
-Incorrect prediction of road user behavior,	Prediction,	Dynamic Interaction Error,	1601
-Failure to meet courtesy expectations,	Behavior,	Policy/Rules Violation,	674
-Motion plan to remain stationary,	Motion Planning,	Unexpected Behavior,	75
-Incorrect traffic signal detection,	Perception,	Detection,	104
-Sensor field of view obstructed,	Sensors,	Hardware,	29
-Incorrectly perceived an element in environment,	Sensing,	Environment Misinterpretation,	768
-Other (e.g. rear-end collision),	External Factors,	Unexpected Event,	1
-ADS motion plan with incorrect location,	Motion Planning,	Path Error,	13
-ADS incorrect road user behavior prediction,	Prediction,	Dynamic Interaction Error,	47
-ADS failure to provide courtesy,	Behavior,	Policy/Rules Violation,	38
-ADS stationary motion plan,	Motion Planning,	Unexpected Behavior,	4
-ADS diagnosed hardware issue,	Hardware,	ADS Malfunction,	4
+Prediction error,	Planner,	ML/Design,	1507
+Perception error(surrounding environment),	Recognition System,	ML/Design,	1033
+Hardware Issue,	Hardware, System,	612
+Incorrect roadway location,	Planner,	ML/Design,	759
+Wrong Motion planning,	Planner,	ML/Design,	941
+Mapping error,	Recognition System,	ML/Design,	677
+Rear-ended,	Environment,	ML/Design,	1
+Traffic signal detection error,	Recognition System,	ML/Design,	182
+Sensor obstruction,	Sensor ,	System,	33
+Diagnosed issue with the motion plan,	Planner,	ML/Design,	183
+Wrong Motion planning(Stationary behavior),	Planner,	ML/Design,	54
+

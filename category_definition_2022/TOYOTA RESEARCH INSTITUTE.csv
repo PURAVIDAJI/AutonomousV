@@ -1,12 +1,13 @@
 Keyword,Fault Tag,Failure Category,Occurrences
-Issue with lane change maneuver,Lane Change Issue,Driving Behavior,26
-Vehicle too close to road boundary,Boundary Proximity Issue,Driving Behavior,17
-Manually drive past pedestrians,Pedestrian Handling,Driving Behavior,15
-Ensure proper behavior at traffic light,Traffic Light Behavior,Driving Behavior,13
-Near crosswalk due to overly conservative behavior,Conservative Behavior,Driving Behavior,11
-Cut-in issue,Vehicle Interaction,Driving Behavior,10
-Inappropriate braking caused by perception issue,Perception-Braking Issue,Perception System,8
-Inappropriate steering,Steering Issue,Driving Behavior,5
-Re-center vehicle in lane,Vehicle Centering,Driving Behavior,4
-Inappropriate braking proposal,Braking Proposal Issue,Control System,3
-Ensure proper behavior near traffic light,Traffic Light Behavior,Driving Behavior,2
+
+Lane Keeping,Recognition System ,ML/Design,5
+Traffic Light Behavior,Recognition System ,ML/Design,24
+Road Boundary Proximity,Recognition System ,ML/Design,13
+Cut-In Issue,Planner ,ML/Design,5
+Pedestrian Handling,Planner ,ML/Design,11
+Inappropriate steering,AV Controller ,System,5
+Braking Decision,Recognition System ,ML/Design,4
+Lane Change Maneuver,Planner ,ML/Design,23
+Crosswalk Behavior,Planner ,ML/Design,1
+Lane Keeping,Recognition System ,ML/Design,16
+Perception Error,Recognition System ,ML/Design,6
