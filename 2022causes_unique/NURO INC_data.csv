@@ -1,0 +1,12 @@
+,Count
+Planning Logic: Planner trajectory inadequately yields for oncoming vehicle,4
+Mapping: Inaccurate map tiles due led to overlap with physical bike lane separator,1
+Planning Logic: Planner trajectory inadequately yields for agent pulling out from street parking,1
+Planning Logic: Planner trajectory inadequately yields for cyclist with agent behind,1
+Object Perception: Incorrectly perceived inroad object led to unwanted braking,1
+Object Perception: Late to perceive animal crossing the road,1
+Planning Logic: Planner trajectory inadequately pulls over with agent behind,1
+Planning Logic: Planner trajectory inadequately yields for tailgating agent,1
+Planning Logic: Planner trajectory shifts into adjacent lane with passing vehicle,1
+Planning Logic: Incorrect behavior prediction for reversing agent results in incorrect stopping location,1
+Mapping: Inaccurate map tiles due to new construction led to overlap with curb,2

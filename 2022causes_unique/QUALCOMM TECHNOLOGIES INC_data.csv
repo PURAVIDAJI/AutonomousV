@@ -1,0 +1,23 @@
+,Count
+Driver disengagement due to perception discrepancy in the detection of  vehicle merging into ego vehicle,1
+Driver disengagement due to perception discrepancy in the false detection of vehicle merging into ego vehicle,1
+Driver disengagement due to safety monitor notification of planning discrepancy in the planning of lane change,1
+Driver disengagement due to safety monitor notification of planning discrepancy,1
+Driver disengagement due to planning discrepancy in yielding to vehicle cut-in,2
+Driver disengagement due to safety monitor notification of positioning discrepancy,4
+Driver disengagement due to delayed response to vehicle cut-in,2
+Driver disengagement due to planning discrepancy: failure to execute lane change due to other vehicle blocking ,1
+Driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed,9
+Driver disengagement due to safety monitor notification of route planner discrepancy,1
+Driver disengagement due to planning discrepancy: failure to execute lane change due to contention,1
+Driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory,29
+Driver disengagement due to planning discrepancy: failure to execute lane change,5
+Driver disengagement due to planning discrepancy in yielding to truck cut-in,1
+Driver disengagement due to safety monitor notification of positioning error,2
+Driver disengagement due to safety monitor notification of sensor input delay,22
+Driver disengagement due to planning discrepancy causing undesired braking,2
+Driver precautionary disengagement due to aggressive cut-in by other vehicle,6
+Driver disengagement due to safety monitor notification of system load,12
+Driver disengagement due to planning discrepancy: failure to yield to merging vehicle,1
+Driver disengagement due to planning discrepancy in yielding to merging vehicle,19
+Driver disengagement due to conditions exceeding ODD,5

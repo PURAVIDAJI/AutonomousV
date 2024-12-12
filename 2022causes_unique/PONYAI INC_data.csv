@@ -1,0 +1,18 @@
+,Count
+"While Pony.ai's Autonomous Driving Vehicle stopped on the side of the road, a passenger vehicle reversed out of a parking spot into a Pony.ai autonomous testing vehicle s rear bumper.",1
+"Planning; as a precaution, the safety operator intervened to avoid the risk of the Autonomous Driving Vehicle colliding with a vehicle in a parking lot when Autonomous Driving Vehicle was making a left turn.",1
+"Planning; as a precaution, the safety operator intervened to avoid a vehicle that illegally ran a red light from a blind spot occluded by a truck in Autonomous Driving Vehicle's neighbor lane.",1
+"Planning; as a precaution, the safety operator intervened to avoid the risk of being rear-ended by a vehicle when Autonomous Driving Vehicle wrongly stopped for open railway gate.",2
+"Planning; as a precaution, the safety operator intervened to avoid a vehicle that ran a 2-way stop sign while Autonomous Driving Vehicle had the right of way.",2
+"Planning; as a precaution, the safety operator intervened to avoid a vehicle that did not follow the appropriate traffic procedure and made a left turn into Autonomous Driving Vehicle's traveling lane from a median crossover while Autonomous Driving Vehicle was going straight.",1
+"Perception; as a precaution, the safety operator intervened due to perception deficiency where the system failed to detect an object correctly.",1
+"While in supervised ( Drivered ) autonomous mode, a Pony.ai Autonomous Vehicle stopped in a parking lot when a passenger vehicle reversed into the Pony.ai vehicle.",1
+"Planning; as a precaution, the safety operator intervened to react to a vehicle that had cut off the Autonomous Driving Vehicle while the vehicle was making an illegal right turn.",1
+Perception; the safety operator intervened due to perception deficiency where the system failed to detect an object correctly.,1
+"Planning; as a precaution, the safety operator intervened to avoid a vehicle that did not yield and made an unprotected left turn into Autonomous Driving Vehicle's traveling lane in intersection while Autonomous Driving Vehicle had the right of way.",1
+"Planning; as a precaution, the safety operator intervened to avoid a vehicle that aggressively cut into the Autonomous Driving Vehicle's traveling lane from left to enter the parking lot on the right side of the road.",1
+"Planning; as a precaution, the safety operator intervened to avoid the risk of being cut off by a vehicle that had suddenly pulled away from the side of the road.",2
+"Planning; as a precaution, the safety operator intervened to avoid the risk of being rear-ended by a vehicle after the Autonomous Driving Vehicle nudged around garbage on the road.",1
+"Planning; as a precaution, the safety operator intervened to avoid the risk of being rear-ended by a vehicle after the Autonomous Driving Vehicle made a lane change.",1
+"Localization; as a precaution, the safety operator intervened as Autonomous Driving Vehicle was drifting to the edge of the lane due to a localization issue.",1
+"Planning; as a precaution, the safety operator intervened to avoid the risk of the Autonomous Driving Vehicle colliding with a truck making a wide right turn across multiple lanes.",1

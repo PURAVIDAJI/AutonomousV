@@ -1,0 +1,22 @@
+,Count
+Planning and prediction discrepancy; incorrect trajectory estimation of and planning for on a occluded cyclist entering Zoox's lane from a private driveway without stopping for oncoming traffic.,1
+Planning discrepancy; system planned incorrect trajectory based on another vehicle making an illegal maneuver from a parking lane.,1
+Prediction and planning discrepancy; incorrect trajectory estimation and planning for another vehicle making an illegal maneuver from a left turn only lane.,1
+Prediction discrepancy; incorrect trajectory estimation of another vehicle making a lane cut-in to Zoox's lane of traffic.,1
+Prediction discrepancy; incorrect trajectory estimation of an adjacent vehicle making an illegal left turn crossing into Zoox's lane of traffic.,1
+Planning and prediction discrepancy; incorrect trajectory estimation based on cyclist and incorrect planning yield for second adjacent cyclist.,1
+Planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle cutting into Zoox's lane of traffic.,1
+Planning discrepancy; system planned incorrect trajectory due to another vehicle making a cut-in to Zoox's lane.,1
+Planning discrepancy; system reacted late to a parked vehicle with a suddenly opened door.,1
+Prediction discrepancy; false positive parked vehicle classification of a vehicle that was attempting to pull in front of us from a parking lane.,1
+Prediction discrepancy; incorrect trajectory estimation of a parking vehicle.,1
+Planning discrepancy; system planned incorrect trajectory based on another vehicle slowing to make a right turn.,1
+Planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle preceding out of turn at a stop sign.,1
+Planning discrepancy; system planned incorrect trajectory based on another vehicle that did not appropriately yield at stop sign.,1
+Prediction discrepancy; incorrect trajectory estimation of another vehicle making a lane change into Zoox s lane from adjacent lane.,1
+Perception and prediction discrepancy; incorrect trajectory estimation of another oncoming speeding vehicle behind occlusions moving towards Zoox's lane of traffic.,1
+Planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle making an illegal lane change.,1
+Prediction discrepancy; incorrect trajectory estimation of vehicle cut-in.,1
+Prediction discrepancy; incorrect trajectory estimation of another vehicle making a lane change from adjacent lane.,1
+Prediction discrepancy; incorrect trajectory estimation based on another occluded vehicle pulling out of a private driveway without stopping for Zoox's lane of traffic.,1
+Prediction discrepancy; incorrect trajectory estimation of another vehicle making an illegal maneuver from a left turn only lane.,1

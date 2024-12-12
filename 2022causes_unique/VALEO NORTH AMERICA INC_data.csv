@@ -1,0 +1,14 @@
+,Count
+"Weather(Sunny), Daylight: ODD - Car on our lane going on reverse for parking - Collision risk with the Stopped AV - Test car not allowed to go over the double yellow lane marking",1
+"Weather(Sunny), Daylight: Controls disengaged at traffic light due to requesting deceleration above threshold - System is not allowed to do emergency braking by itself",1
+"Weather(Sunny), Daylight: Traffic light detected stayed at red color when it was green - Switch to green light not detected - Perception SW - Unknown Root cause ",8
+"Weather(Sunny), Daylight: Lateral Actuator Limit reached during a turn - Path planning SW requested a tighter turn than allowed",1
+"Weather(Sunny), Daylight: Software Crash of localization component - unknown root cause",16
+"Weather(Sunny), Daylight: Safety Takeover (Close to pedestrian)",7
+"Weather(Sunny), Daylight: Driver's safety decision to takeover because the front car was parked too close from us at the right of the ego lane",3
+"Weather(Sunny), Daylight: Right turn at traffic light (upcoming traffic not seen)",1
+"Weather(Sunny), Daylight: Ego-vehicle didn't take off at a stop when it was his turn",10
+"Weather(Sunny), Daylight: ODD - Car double parked on our lane - Test car not allowed to go over the double yellow lane marking",20
+"Weather(Sunny), Daylight: Safety Takeover because of Tailgater",1
+"Weather(Sunny), Daylight: Safety Takeover after Ghost Braking",1
+"Weather(Sunny), Daylight: Safety Takeover because of reckless driver",1

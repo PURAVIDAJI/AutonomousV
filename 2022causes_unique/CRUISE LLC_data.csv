@@ -1,0 +1,9 @@
+,Count
+Other road user behaving poorly; close training vehicle,1
+"Other road user behaving poorly, making illegal turn in front of AV traveling straight",1
+Precautionary takeover to address planning; close trailing vehicle,2
+Precautionary takeover to address prediction; lane encroachment,1
+"Other road user behaving poorly, making illegal left turn in front of AV that was traveling straight",1
+Precautionary takeover to address perception; close trailing vehicle,1
+Other road user behaving poorly; lane encroachment,1
+Precautionary takeover to address planning; lane keeping,1
