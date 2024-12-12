@@ -1,15 +1,15 @@
-Keyword,Fault Tag,Failure Category,Occurrences
-Object Detection Issue,Recognition System,ML/Design,445
-Traffic Situation,Planner,ML/Design,140
-Lane Detection or Map Issue,Recognition System,ML/Design,138
-Navigation/Localization Issue,Planner,ML/Design,123
-Unnecessary Lane Change,Planner,ML/Design,87
-Lane Detection Issue,Lane Management Error,Perception System,83
-Faster Car in Target Lane,Conflict During Lane Change,Traffic Interaction,34
-Software Limitation,AV Controller,System,33
-Too Aggressive Lane Change,AV Controller,System,26
-Bad Lane Detection in Exit/Merge Lane,Exit/Merge Lane Mismanagement,Perception System,22
-Unintended Braking,Object Misclassification Error,Perception System,19
-Limited Control Actuation,Control System Limitation,Control System,5
-
-
+Keyword,	Tag,	Category,	Occurrence
+lane management,Planner,ML/Design,124
+lane management-trajectory planning- software issue,Software,System,37
+lane management- control handover- software issue,Software,System,28
+object detection- proximity management,Planner,ML/Design,1
+control handover- software issue,Software,System,1
+lane management- object detection-proximity management,Planner,ML/Design,211
+software issue,Software,System,4
+lane management,Planner,ML/Design,1
+lane management,Planner,ML/Design,82
+lane management,Planner,ML/Design,123
+lane management- control handover,AV Controller,System / ML/Design,4
+Exit/merge lane,Recognition System,ML/Design,15
+lane management,Planner,ML/Design,36
+lane management- object detection,Recognition System,ML/Design,13

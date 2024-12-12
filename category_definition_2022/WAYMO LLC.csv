@@ -1,5 +1,4 @@
 Keyword,Fault Tag,Failure Category,Occurrences
-
 a software discrepancy,	Software,	System,	3
 unwanted maneuver, 	Planner,	ML/Design,	88
 a hardware discrepancy,	Hardware,	System,	4

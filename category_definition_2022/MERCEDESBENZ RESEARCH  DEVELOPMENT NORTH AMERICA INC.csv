@@ -1,6 +1,6 @@
 Keyword,Fault Tag,Failure Category,Occurrences
-Reduce velocity,	Environment,	ML/Design,	4
-Steering maneuver and correct trajectory,	Planner,	ML/Design,	3
+Reduce velocity,	Environment,ML/Design,	4
+Steering maneuver and correct trajectory,Planner,ML/Design,	3
 Fusion component error,	Recognition System,	ML/Design,	3
 Planning system error (fast trajectory),	Planner,	ML/Design,	26
 Increase velocity,	Environment,	ML/Design,	2

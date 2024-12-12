@@ -1,5 +1,4 @@
 Keyword,Fault Tag,Failure Category,Occurrences
-
 Lane Keeping,Recognition System ,ML/Design,5
 Traffic Light Behavior,Recognition System ,ML/Design,24
 Road Boundary Proximity,Recognition System ,ML/Design,13

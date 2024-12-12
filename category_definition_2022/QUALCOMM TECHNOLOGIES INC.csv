@@ -1,15 +1,17 @@
 Keyword,Fault Tag,Failure Category,Occurrences
-System Overload,System Load Issue,System Performance,22
-Input Lag,Sensor Delay Issue,Sensor System,20
-Trajectory Planning Error,Planning Issue,Control System,18
-Merging Yield Failure,Yielding Issue,Control System,15
-Operational Limit Exceeded,ODD Limitation,Operational Design,8
-Localization Error,Positioning Issue,Localization System,8
-Lane Change Failure,Lane Change Issue,Control System,7
-Cut-in Reaction Delay,Reaction Delay,Control System,5
-Speed Planning Error,Speed Planning Issue,Control System,5
-Aggressive Cut-in Interaction,Cut-in Issue,Driving Interaction,5
-Lane Change Plan Disruption,Lane Change Planning Issue,Control System,4
-False Vehicle Detection,Perception Issue,Perception System,3
-Unintended Braking,Braking Issue,Control System,2
-Route Planning Mismatch,Route Planning Issue,Control System,1
+Vehicle merging,Recognition System,ML/Design,1
+False detection- vehicle merging,Recognition System,ML/Design,1
+Planning discrepancy,Planner,ML/Design,9
+Positioning discrepancy,Sensor,System,4
+Delayed response-vehicle cut-in,Planner,ML/Design,3
+Planning discrepancy- lane change-vehicle blocking,Planner,ML/Design,2
+Planning discrepancy-vehicle speed determination,Planner,ML/Design,9
+Route planner discrepancy,Planner,ML/Design,1
+Planning discrepancy- vehicle trajectory,Planner,ML/Design,29
+Positioning error,Sensor,System,2
+Sensor input delay,Sensor,System,22
+Planning discrepancy-undesired braking,Planner,ML/Design,2
+Aggressive cut-in- precautionary disengagement,Planner,ML/Design,6
+System load,Computer System,System,12
+Planning discrepancy-merging vehicle,Planner,ML/Design,20
+Exceeding ODD,Environment,ML/Design,5

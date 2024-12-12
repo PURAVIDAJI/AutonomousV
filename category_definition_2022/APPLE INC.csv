@@ -1,7 +1,7 @@
 Keyword,	Fault Tag,	Failure Category,	Total Occurrences
 Prediction error,	Planner,	ML/Design,	1507
 Perception error(surrounding environment),	Recognition System,	ML/Design,	1033
-Hardware Issue,	Hardware, System,	612
+Hardware Issue,	Hardware,	System,	612
 Incorrect roadway location,	Planner,	ML/Design,	759
 Wrong Motion planning,	Planner,	ML/Design,	941
 Mapping error,	Recognition System,	ML/Design,	677
