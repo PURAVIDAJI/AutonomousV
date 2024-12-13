@@ -1,0 +1,25 @@
+Unnamed: 0,Count,Tag,Category
+driver disengagement due to conditions exceeding odd,11,Environment,ML/Design
+driver disengagement due to delayed response to vehicle cut-in,2,Planner,ML/Design
+driver disengagement due to perception discrepancy in the detection of  vehicle merging into ego vehicle,1,Recognition System,ML/Design
+driver disengagement due to perception discrepancy in the false detection of vehicle merging into ego vehicle,1,Recognition System,ML/Design
+driver disengagement due to planning discrepancy causing undesired braking,6,Planner,ML/Design
+driver disengagement due to planning discrepancy in the determination of autonomous vehicle speed,22,Planner,ML/Design
+driver disengagement due to planning discrepancy in yielding to merging vehicle,26,Planner,ML/Design
+driver disengagement due to planning discrepancy in yielding to truck cut-in,1,Planner,ML/Design
+driver disengagement due to planning discrepancy in yielding to vehicle cut-in,5,Planner,ML/Design
+driver disengagement due to planning discrepancy: failure to execute lane change,5,Planner,ML/Design
+driver disengagement due to planning discrepancy: failure to execute lane change due to contention,1,Planner,ML/Design
+driver disengagement due to planning discrepancy: failure to execute lane change due to other vehicle blocking ,1,Planner,ML/Design
+driver disengagement due to planning discrepancy: failure to yield to merging vehicle,1,Planner,ML/Design
+driver disengagement due to safety monitor notification of buffer congestion,2,Network,System
+driver disengagement due to safety monitor notification of planning discrepancy,1,Planner,ML/Design
+driver disengagement due to safety monitor notification of planning discrepancy in the determination of vehicle trajectory,97,Planner,ML/Design
+driver disengagement due to safety monitor notification of planning discrepancy in the planning of lane change,1,Planner,ML/Design
+driver disengagement due to safety monitor notification of positioning discrepancy,4,Sensor,System
+driver disengagement due to safety monitor notification of positioning error,44,Sensor,System
+driver disengagement due to safety monitor notification of route planner discrepancy,1,Planner,ML/Design
+driver disengagement due to safety monitor notification of sensor input delay,67,Sensor,System
+driver disengagement due to safety monitor notification of system load,13,Computer System,System
+driver disengagement to perform manual lane change,1,AV Controller,ML/Design
+driver precautionary disengagement due to aggressive cut-in by other vehicle,11,Planner,ML/Design

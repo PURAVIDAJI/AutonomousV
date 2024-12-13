@@ -1,0 +1,41 @@
+Unnamed: 0,Count,Tag,Category
+localization: poor localization led to driving onto curb,1,Sensor,System
+mapping: inaccurate map tiles due led to overlap with physical bike lane separator,1,Recognition System,ML/Design
+mapping: inaccurate map tiles due to new construction led to overlap with curb,2,Environment,ML/Design
+object perception: incorrect perception of bus leads to nudging into adjacent lane with tailgating agent,1,Recognition System,ML/Design
+object perception: incorrect perception of debris in road leads to unwanted braking with tailgating agent,1,Recognition System,ML/Design
+object perception: incorrect perception of false object in road leads to unwanted braking with tailgating agent,1,Recognition System,ML/Design
+object perception: incorrect perception of railroad crossing leads to unwanted braking with tailgating agent,1,Recognition System,ML/Design
+object perception: incorrect perception of traffic light leads to inadequate yield to cross traffic,3,Recognition System,ML/Design
+object perception: incorrectly perceived inroad object led to unwanted braking,1,Recognition System,ML/Design
+object perception: late perception of oncoming turning agent cuts off nuro vehicle leading to inadequate yield,1,Recognition System,ML/Design
+object perception: late to perceive animal crossing the road,1,Recognition System,ML/Design
+planning logic: inccorect planner trajectory fails to adequate yield to lead vehicle,1,Planner,ML/Design
+planning logic: incorrect behavior leads to unwanted braking with cross traffic,4,Planner,ML/Design
+planning logic: incorrect behavior leads to unwanted braking with tailgating agent,3,Planner,ML/Design
+planning logic: incorrect behavior leads to unwanted braking with tailgating cyclist ,1,Planner,ML/Design
+planning logic: incorrect behavior prediction for reversing agent results in incorrect stopping location,1,Recognition System,ML/Design
+planning logic: incorrect planner trajectory fails to adequate yield to lead vehicle,1,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to adequately slow for lead vehicle,5,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to adequately yield to adjacent vehicle overtaking nuro vehicle while merging,1,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging,1,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging due to construction,1,Environment,ML/Design
+planning logic: incorrect planner trajectory fails to adequately yield to lead vehicle,4,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to adequately yield to pedestrian on scooter in bike lane,1,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to adequately yield to turning cross traffic agent,1,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to yield for cross traffic,1,Planner,ML/Design
+planning logic: incorrect planner trajectory fails to yield for cross traffic violating right of way,1,Planner,ML/Design
+planning logic: incorrect prediction leads to inadequate yield to cyclist in crosswalk ,1,Recognition System,ML/Design
+planning logic: incorrect prediction leads to inadequate yield to cyclist running stop sign,1,Recognition System,ML/Design
+planning logic: incorrect prediction leads to inadequate yield to pedestrian in crosswalk ,1,Recognition System,ML/Design
+planning logic: incorrect prediction leads to unwanted braking with tailgating agent,2,Recognition System,ML/Design
+planning logic: planner trajectory inadequately pulls over with agent behind,1,Planner,ML/Design
+planning logic: planner trajectory inadequately yields for agent pulling out from street parking,1,Planner,ML/Design
+planning logic: planner trajectory inadequately yields for cross traffic,1,Planner,ML/Design
+planning logic: planner trajectory inadequately yields for cyclist with agent behind,1,Planner,ML/Design
+planning logic: planner trajectory inadequately yields for oncoming vehicle,6,Planner,ML/Design
+planning logic: planner trajectory inadequately yields for oncoming while making a left turn,1,Planner,ML/Design
+planning logic: planner trajectory inadequately yields for tailgating agent,1,Planner,ML/Design
+planning logic: planner trajectory inadequately yields for vehicle reversing from driveway,1,Planner,ML/Design
+planning logic: planner trajectory shifts into adjacent lane with passing vehicle,1,Planner,ML/Design
+router: incorrect router transition leads to unwanted braking with tailgating agent,2,AV Controller,ML/Design
