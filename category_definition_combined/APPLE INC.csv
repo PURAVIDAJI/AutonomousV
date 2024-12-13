@@ -1,0 +1,13 @@
+Keyword,	Fault Tag,	Failure Category,	Total Occurrences
+Motion plan-remain stationary, Planner, ML/Design, 18			
+Diagnosed issue-motion plan, Planner, ML/Design, 319			
+Mapping error, Recognition System, ML/Design, 956			
+Hardware issue, Hardware, System, 1279			
+Incorrect prediction-road user behavior, Recognition System, ML/Design,  3433			
+Incorrect detection-traffic signal, Recognition System, ML/Design,  186			
+Incorrect roadway location, Planner, ML/Design, 759			
+Incorrect motion plan,  Planner, ML/Design, 1086			
+Incorrect perception-surrounding environment,  Recognition System, ML/Design,  1095			
+Sensor obstruction, Sensor , System, 44			
+Rear-ended, Environment, ML/Design, 1			
+			
