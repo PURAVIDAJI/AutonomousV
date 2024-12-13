@@ -1,0 +1,12 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Inconsistent actor vehicle predictions,Recognition System,ML/Design,8
+Insufficient lateral clearance- lane change,Planner,ML/Design,5
+Planning trajectory scoring issue-insufficient braking,Planner,ML/Design,4
+software issue-sensor data processing,Software,System,19
+software issue-controller interface,Software,System,433
+software issue-compute infrastructure,Software,System,86
+Inconsistent traffic light detection,Recognition System,ML/Design,4
+Inconsistent prediction trajectory,Recognition System,ML/Design,3
+Inaccurate oncoming traffic predictions,Recognition System,ML/Design,6
+Inaccurate vehicle size detection,Recognition System,ML/Design,1
+Temporary localization sub-system drop,Sensor,System,24

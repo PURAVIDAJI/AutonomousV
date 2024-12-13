@@ -1,9 +1,0 @@
-,Count
-"The AV didn't yield to vehicle turning left while AV was turning right. As a result, Driver safely disengaged and resumed manual control.",1
-"The AV Software module that  generates a plan generated a wrong path different from desired path. As a result, Driver safely disengaged and resumed manual control.",1
-"The AV did not see the traffic light and the AV stopped for a green light. As a result, the driver safely disengaged and resumed manual control.",1
-"The Safety driver noticed incorrect map drive lines, causing the AV to drive too close to the curb. As a result, Driver safely disengaged and resumed manual control.",1
-"The AV was block by a car double park on the street, the AV as not able to go around due to incoming traffic. As a result, Driver safely disengaged and resumed manual control.",1
-"The AV stopped for a construction zone due to lane blockage. As a result, Driver safely disengaged and resumed manual control.",1
-"When the AV was making a lane change, too much acceleration was observed despite a set target speed. As a result, the driver safely disengaged and resumed manual control.",1
-"The AV was approaching a turn too fast. As a result, the driver safely disengaged and resumed manual control.",1

@@ -1,0 +1,17 @@
+Keyword,	Tag,	Category,	Occurrence
+Debris on the road-precaution,Environment,ML/Design,8
+insufficient distance-object detection,Recognition System,ML/Design,43
+Software error-self-diagnosed,Software,System,1
+Distance from parked vehicle,Environment,ML/Design,15
+lane detection-object detection,Recognition System,ML/Design,326
+Exit/merge maneuver- object detection,Recognition System,ML/Design,21
+Inappropriate braking-trajectory calculation issue,Planner,ML/Design,25
+lane detection-software issue,Software,System,31
+Cut-in maneuver-object detection,Recognition System,ML/Design,19
+Exit/merge maneuver- lane detection,Recognition System,ML/Design,20
+Traffic light detection,Recognition System,ML/Design,32
+Lane change-merge to highway,Planner,ML/Design,9
+Steering maneuver-trajectory correction,Planner,ML/Design,47
+Inappropriate braking-falsely perceived stop line,Recognition System,ML/Design,11
+Traffic light detection-stop line detection,Recognition System,ML/Design,67
+Lane change-object detection,Recognition System,ML/Design,33

@@ -1,0 +1,5 @@
+Keyword,Fault Tag,Failure Category,Occurrences
+Software discrepancy,	Software,	System,	47
+Perception discrepancy-failed object detection,	Recognition System,	ML/Design,	53
+Unwanted maneuver-undesirable circumstances,	Planner,	ML/Design,	108
+Recklessly behaving road user,	Environment,	ML/Design,	4

@@ -1,5 +1,4 @@
 Keyword, Fault Tag,	Failure Category, Occurrences
-
 Inaccurate road perception,	Recognition System,	ML/Design, 3
 Inaccurate car detection, Recognition System,ML/Design,19
 Inaccurate path intent,	Planner,	ML/Design,1

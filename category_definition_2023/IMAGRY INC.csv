@@ -1,0 +1,8 @@
+Keyword, Fault Tag,	Failure Category, Occurrences
+Incorrect behaviour prediction- traffic participant,Recognition System,ML/Design,10
+Incorrect perception-surrounding environment,Recognition System,ML/Design,48
+Inaccurate trajectory,Planner,ML/Design,7
+Inaccurate controller-path planning,Planner,ML/Design,1
+Object detection discrepancy,Recognition System,ML/Design,7
+Inaccurate path planning,Planner,ML/Design,41
+Precautionary disengagement- Close to road boundary,Environment,ML/Design,10

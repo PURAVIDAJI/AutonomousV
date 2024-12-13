@@ -1,0 +1,9 @@
+Keyword,	Fault Tag,	Failure Category,	Occurrences
+Undesirable lane placement-lane marker override,Planner,ML/Design,101
+Undesirable performance-system delay-software bug,Software,System,58
+Undesirable lane placement- lane marker contact,Planner,ML/Design,199
+Undesirable lane placement- lateral movement,Planner,ML/Design,138
+Driving too closely- distance assessment,Recognition System,ML/Design,194
+Unexpected road conditions-unadvisable operation,Environment,ML/Design,66
+Unexpected behavior- system operation,Computer System,System,42
+Unexpected braking- braking force,Planner,ML/Design,236
