@@ -1,12 +1,13 @@
 Keyword,Fault Tag,Failure Category,Occurrences
 Planning discrepancy-undesired braking,Planner,ML/Design,4
-Planning discrepancy- vehicle trajectory determination,Planner,ML/Design,68
-Sensor input delay,Sensor,System,45
-System load,Computer System,System,1
-Planning discrepancy-yielding to merging vehicle,Planner,ML/Design,7
+Planning discrepancy- vehicle trajectory determination,Planner,ML/Design,74
+Sensor input delay,Sensor,System,67
+System load,Computer System,System,13
+Planning discrepancy-yielding to merging vehicle,Planner,ML/Design,68
 Buffer congestion,Computer System,System,2
-Positioning error,Sensor,System,42
-Planning discrepancy-autonomous vehicle speed determination,Planner,ML/Design,13
-Planning discrepancy- yielding to vehicle cut-in,Planner,ML/Design,3
-Conditions exceeding ODD,Environment,ML/Design,6
+Positioning error,Sensor,System,48
+Planning discrepancy-autonomous vehicle speed determination,Planner,ML/Design,22
+Planning discrepancy- yielding to vehicle cut-in,Planner,ML/Design,8
+Conditions exceeding ODD,Environment,ML/Design,11
 Precautionary disengagement-aggressive cut-in,Environment,ML/Design,5
+False detection- vehicle merging,Recognition System,ML/Design,2
