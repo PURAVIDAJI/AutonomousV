@@ -1,5 +1,5 @@
 Unnamed: 0,Count,Tag,Category
-localization takeover: disengaged due to a temporary localization sub-system drop,24,Computer System,System
+localization takeover: disengaged due to a temporary localization sub-system drop,24,Sensor,System
 "mapping discrepancy: disengaged due to inaccurate real world map representation, traffic light shape in this case",1,Recognition System,ML/Design
 perception discrepancy: disengaged due to inaccurate tracking for a vehicle reversing in front of the autonomous vehicle (av),2,Recognition System,ML/Design
 perception discrepancy: disengaged due to inaccurate vehicle size detection,1,Recognition System,ML/Design
@@ -9,9 +9,9 @@ perception discrepancy: disengaged for lack of consistently accurate traffic lig
 planning discrepancy: disengaged due to insufficient lateral clearance to the curb while performing a lane change,6,Planner,ML/Design
 planning discrepancy: disengaged due to planning trajectory scoring issue causing the autonomous vehicle (av) to maneuver close to the parked vehicles,1,Planner,ML/Design
 planning discrepancy: disengaged due to planning trajectory scoring issue leading to insufficient braking for actor vehicle in front of the autonomous vehicle (av),5,Planner,ML/Design
-precautionary takeover: disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system,99,Computer System,System
+precautionary takeover: disengaged due to a vehicle platform software issue pertinent to the compute infrastructure sub-system,99,Software,System
 precautionary takeover: disengaged due to a vehicle platform software issue related to the sensor data processing pipelines,47,Sensor,System
-precautionary takeover: disengaged due to a vehicle platform software issue within the autonomous vehicle's (av) controller interface sub-system,514,Computer System,System
+precautionary takeover: disengaged due to a vehicle platform software issue within the autonomous vehicle's (av) controller interface sub-system,514,Software,System
 prediction discrepancy: disengaged due to inaccurate lead vehicle predictions prior to the autonomous vehicle (av) turning left at an intersection,1,Recognition System,ML/Design
 prediction discrepancy: disengaged due to inaccurate oncoming traffic predictions as the autonomous vehicle (av) is turning left at an intersection,8,Recognition System,ML/Design
 prediction discrepancy: disengaged due to inconsistent actor vehicle predictions at an intersection while autonomous vehicle (av) is turning right,9,Recognition System,ML/Design

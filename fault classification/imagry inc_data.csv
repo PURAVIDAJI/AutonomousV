@@ -18,4 +18,4 @@ Unnamed: 0,Count,Tag,Category
  passing car on red light,1,Planner,ML/Design
 precautionary disengagement by safety driver upon judging that vehicle was too close to road boundary,10,Sensor,System
 system planned inaccurate trajectory to overtake a static object that was partialy blocking the lane,7,Computer System,System
-"the system incorrectly perceived an element in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement",40,Computer System,System
+"the system incorrectly perceived an element in the surrounding environment, resulting in an incorrect motion plan requiring a disengagement",40,Recognition System,ML/Design

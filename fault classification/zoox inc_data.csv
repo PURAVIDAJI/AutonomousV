@@ -5,11 +5,11 @@ planning and prediction discrepancy; incorrect trajectory estimation of and plan
 planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle making an illegal lane change.,1,Recognition System,ML/Design
 planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle preceding out of turn at a stop sign.,1,Recognition System,ML/Design
 planning and prediction discrepancy; incorrect trajectory estimation of and planning for on a occluded cyclist entering zoox's lane from a private driveway without stopping for oncoming traffic.,1,Recognition System,ML/Design
-planning discrepancy; system planned incorrect trajectory based on another vehicle making an illegal maneuver from a parking lane.,1,Computer System,System
-planning discrepancy; system planned incorrect trajectory based on another vehicle slowing to make a right turn.,1,Computer System,System
-planning discrepancy; system planned incorrect trajectory based on another vehicle that did not appropriately yield at stop sign.,1,Computer System,System
-planning discrepancy; system planned incorrect trajectory due to another vehicle making a cut-in to zoox's lane.,1,Computer System,System
-planning discrepancy; system reacted late to a parked vehicle with a suddenly opened door.,1,Computer System,System
+planning discrepancy; system planned incorrect trajectory based on another vehicle making an illegal maneuver from a parking lane.,1,Planner,ML/Design
+planning discrepancy; system planned incorrect trajectory based on another vehicle slowing to make a right turn.,1,Planner,ML/Design
+planning discrepancy; system planned incorrect trajectory based on another vehicle that did not appropriately yield at stop sign.,1,Planner,ML/Design
+planning discrepancy; system planned incorrect trajectory due to another vehicle making a cut-in to zoox's lane.,1,Planner,ML/Design
+planning discrepancy; system reacted late to a parked vehicle with a suddenly opened door.,1,Planner,ML/Design
 prediction and planning discrepancy; incorrect trajectory estimation and planning for another vehicle making an illegal maneuver from a left turn only lane.,1,Recognition System,ML/Design
 prediction discrepancy. adjacent vehicle made illegal maneuver from left turn only lane.,2,Recognition System,ML/Design
 prediction discrepancy. late and illegal cut-in from other vehicle from adjacent lane.,1,Recognition System,ML/Design

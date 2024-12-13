@@ -1,7 +1,7 @@
 Unnamed: 0,Count,Tag,Category
 localization: poor localization led to driving onto curb,1,Sensor,System
 mapping: inaccurate map tiles due led to overlap with physical bike lane separator,1,Recognition System,ML/Design
-mapping: inaccurate map tiles due to new construction led to overlap with curb,2,Environment,ML/Design
+mapping: inaccurate map tiles due to new construction led to overlap with curb,2,Recognition System,ML/Design
 object perception: incorrect perception of bus leads to nudging into adjacent lane with tailgating agent,1,Recognition System,ML/Design
 object perception: incorrect perception of debris in road leads to unwanted braking with tailgating agent,1,Recognition System,ML/Design
 object perception: incorrect perception of false object in road leads to unwanted braking with tailgating agent,1,Recognition System,ML/Design
@@ -19,7 +19,7 @@ planning logic: incorrect planner trajectory fails to adequate yield to lead veh
 planning logic: incorrect planner trajectory fails to adequately slow for lead vehicle,5,Planner,ML/Design
 planning logic: incorrect planner trajectory fails to adequately yield to adjacent vehicle overtaking nuro vehicle while merging,1,Planner,ML/Design
 planning logic: incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging,1,Planner,ML/Design
-planning logic: incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging due to construction,1,Environment,ML/Design
+planning logic: incorrect planner trajectory fails to adequately yield to adjacent vehicle while merging due to construction,1,Planner,ML/Design
 planning logic: incorrect planner trajectory fails to adequately yield to lead vehicle,4,Planner,ML/Design
 planning logic: incorrect planner trajectory fails to adequately yield to pedestrian on scooter in bike lane,1,Planner,ML/Design
 planning logic: incorrect planner trajectory fails to adequately yield to turning cross traffic agent,1,Planner,ML/Design
