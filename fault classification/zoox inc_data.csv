@@ -1,0 +1,25 @@
+Unnamed: 0,Count,Tag,Category
+perception and prediction discrepancy; incorrect trajectory estimation of another oncoming speeding vehicle behind occlusions moving towards zoox's lane of traffic.,1,Recognition System,ML/Design
+planning and prediction discrepancy; incorrect trajectory estimation based on cyclist and incorrect planning yield for second adjacent cyclist.,1,Recognition System,ML/Design
+planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle cutting into zoox's lane of traffic.,1,Recognition System,ML/Design
+planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle making an illegal lane change.,1,Recognition System,ML/Design
+planning and prediction discrepancy; incorrect trajectory estimation of and planning for another vehicle preceding out of turn at a stop sign.,1,Recognition System,ML/Design
+planning and prediction discrepancy; incorrect trajectory estimation of and planning for on a occluded cyclist entering zoox's lane from a private driveway without stopping for oncoming traffic.,1,Recognition System,ML/Design
+planning discrepancy; system planned incorrect trajectory based on another vehicle making an illegal maneuver from a parking lane.,1,Computer System,System
+planning discrepancy; system planned incorrect trajectory based on another vehicle slowing to make a right turn.,1,Computer System,System
+planning discrepancy; system planned incorrect trajectory based on another vehicle that did not appropriately yield at stop sign.,1,Computer System,System
+planning discrepancy; system planned incorrect trajectory due to another vehicle making a cut-in to zoox's lane.,1,Computer System,System
+planning discrepancy; system reacted late to a parked vehicle with a suddenly opened door.,1,Computer System,System
+prediction and planning discrepancy; incorrect trajectory estimation and planning for another vehicle making an illegal maneuver from a left turn only lane.,1,Recognition System,ML/Design
+prediction discrepancy. adjacent vehicle made illegal maneuver from left turn only lane.,2,Recognition System,ML/Design
+prediction discrepancy. late and illegal cut-in from other vehicle from adjacent lane.,1,Recognition System,ML/Design
+prediction discrepancy. late cut-in from other vehicle from adjacent lane.,1,Recognition System,ML/Design
+prediction discrepancy; false positive parked vehicle classification of a vehicle that was attempting to pull in front of us from a parking lane.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation based on another occluded vehicle pulling out of a private driveway without stopping for zoox's lane of traffic.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation of a parking vehicle.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation of an adjacent vehicle making an illegal left turn crossing into zoox's lane of traffic.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation of another vehicle making a lane change from adjacent lane.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation of another vehicle making a lane change into zoox s lane from adjacent lane.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation of another vehicle making a lane cut-in to zoox's lane of traffic.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation of another vehicle making an illegal maneuver from a left turn only lane.,1,Recognition System,ML/Design
+prediction discrepancy; incorrect trajectory estimation of vehicle cut-in.,1,Recognition System,ML/Design

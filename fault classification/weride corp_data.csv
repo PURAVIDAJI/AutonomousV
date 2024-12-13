@@ -1,0 +1,6 @@
+Unnamed: 0,Count,Tag,Category
+"discrepancy in planning. when av almost finished the right turn, a vehicle from the rear side still ran fast towards av",1,Planner,ML/Design
+"discrepancy in planning. while av merged into highway, a car aggressively cut in crossing solid white line",1,Planner,ML/Design
+"discrepancy in planning. while throughlanes were fully blocked by traffic jam, av was trying to diverge to the right lane but too close to other vehicles",1,Planner,ML/Design
+"the lead vehicle stopped for stop sign was falsely identified as a ""side-parked"" vehicle while av approached from behind resulting in av attempting to bypass the lead vehicle. the operator intervened and look over in order to prevent the  bypass.",1,Other,Unknown
+"while traveling on a narrow road, an incoming vehicle approached from the front traveling towards the av. since this is a safety critical situation, the operatpr took over.",1,Other,Unknown
