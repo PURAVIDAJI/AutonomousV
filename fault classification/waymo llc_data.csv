@@ -1,7 +1,0 @@
-Unnamed: 0,Count,Tag,Category
-disengage for a hardware discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a hardware component of the self-driving system or a component of the base vehicle,4,Computer System,System
-disengage for a perception discrepancy for which a component of the vehicle's perception system failed to detect an object correctly,127,Computer System,System
-disengage for a recklessly behaving road user,4,Environment,ML/Design
-disengage for a software discrepancy for which our vehicle's diagnostics received a message indicating a potential performance issue with a software component,50,Software,System
-disengage for incorrect behavior prediction of other traffic participants,1,Recognition System,ML/Design
-disengage for unwanted maneuver of the vehicle that was undesirable under the circumstances,196,AV Controller,ML/Design
